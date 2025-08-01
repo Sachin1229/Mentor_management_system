@@ -1,0 +1,101 @@
+student_id,percentage,assignment,attendance,last_date
+U001,83,submitted,71,2025-06-01
+U002,73,submitted,88,2025-03-07
+U003,80,submitted,81,2025-01-14
+U004,81,not submitted,60,2025-01-28
+U005,92,submitted,71,2025-01-30
+U006,76,submitted,91,2025-06-10
+U007,75,submitted,62,2025-07-17
+U008,66,submitted,79,2025-01-11
+U009,91,submitted,60,2025-05-13
+U010,56,not submitted,91,2025-05-21
+U011,91,not submitted,100,2025-02-15
+U012,51,submitted,92,2025-06-26
+U013,94,submitted,66,2025-04-02
+U014,60,submitted,89,2025-06-29
+U015,58,submitted,85,2025-07-04
+U016,89,submitted,70,2025-01-30
+U017,51,submitted,98,2025-05-30
+U018,60,submitted,63,2025-01-04
+U019,73,submitted,72,2025-01-18
+U020,68,submitted,74,2025-07-16
+U021,80,submitted,94,2025-02-10
+U022,55,not submitted,100,2025-02-22
+U023,75,submitted,87,2025-07-12
+U024,89,submitted,87,2025-03-20
+U025,65,not submitted,75,2025-01-01
+U026,63,submitted,80,2025-07-26
+U027,84,not submitted,60,2025-05-23
+U028,93,submitted,69,2025-05-23
+U029,90,submitted,67,2025-06-14
+U030,93,not submitted,97,2025-01-03
+U031,64,submitted,75,2025-04-09
+U032,63,not submitted,68,2025-03-04
+U033,96,submitted,66,2025-04-07
+U034,87,submitted,74,2025-06-29
+U035,96,submitted,62,2025-06-10
+U036,60,submitted,67,2025-07-08
+U037,79,submitted,98,2025-01-29
+U038,70,submitted,76,2025-04-28
+U039,84,submitted,78,2025-06-16
+U040,69,submitted,97,2025-04-16
+U041,57,not submitted,63,2025-07-13
+U042,73,submitted,85,2025-01-18
+U043,55,submitted,63,2025-03-04
+U044,50,submitted,88,2025-04-24
+U045,60,submitted,76,2025-05-24
+U046,75,submitted,87,2025-02-18
+U047,84,submitted,94,2025-01-19
+U048,62,not submitted,88,2025-06-06
+U049,91,submitted,92,2025-04-25
+U050,51,submitted,91,2025-04-11
+U051,61,not submitted,96,2025-05-23
+U052,58,not submitted,73,2025-02-06
+U053,77,not submitted,75,2025-05-17
+U054,51,submitted,98,2025-01-06
+U055,97,submitted,75,2025-01-29
+U056,78,not submitted,62,2025-04-22
+U057,58,not submitted,98,2025-03-09
+U058,92,submitted,89,2025-01-31
+U059,92,submitted,84,2025-05-24
+U060,81,submitted,79,2025-02-18
+U061,65,submitted,82,2025-05-04
+U062,93,submitted,85,2025-06-03
+U063,68,submitted,60,2025-03-09
+U064,69,submitted,65,2025-01-03
+U065,94,submitted,71,2025-05-27
+U066,75,not submitted,74,2025-02-20
+U067,73,submitted,74,2025-01-08
+U068,71,submitted,92,2025-04-01
+U069,75,submitted,92,2025-02-06
+U070,82,submitted,91,2025-02-16
+U071,72,submitted,78,2025-03-21
+U072,65,submitted,68,2025-07-24
+U073,95,submitted,87,2025-05-28
+U074,90,submitted,65,2025-02-18
+U075,84,submitted,97,2025-01-24
+U076,81,not submitted,73,2025-02-18
+U077,81,submitted,99,2025-06-03
+U078,70,submitted,82,2025-04-17
+U079,79,submitted,66,2025-05-24
+U080,63,submitted,85,2025-06-29
+U081,69,submitted,100,2025-05-28
+U082,86,not submitted,90,2025-06-28
+U083,83,submitted,67,2025-01-21
+U084,89,submitted,84,2025-03-29
+U085,64,submitted,100,2025-06-15
+U086,97,submitted,93,2025-02-15
+U087,79,not submitted,62,2025-02-10
+U088,88,submitted,69,2025-07-18
+U089,55,submitted,62,2025-03-15
+U090,82,submitted,64,2025-02-09
+U091,86,submitted,70,2025-05-07
+U092,66,submitted,96,2025-04-04
+U093,52,submitted,64,2025-05-06
+U094,61,submitted,65,2025-06-28
+U095,97,submitted,92,2025-02-12
+U096,77,submitted,63,2025-05-03
+U097,69,submitted,76,2025-04-26
+U098,74,not submitted,95,2025-01-11
+U099,97,submitted,87,2025-06-26
+U100,97,submitted,100,2025-02-11

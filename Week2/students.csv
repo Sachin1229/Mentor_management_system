@@ -1,0 +1,101 @@
+student_id,name,departments,current_Year,academic_mentors,industry_mentors
+U001,Vanessa Smith,Mechanical,1,A011,I019
+U002,Sharon Thomas,Computer Science,4,A007,I000
+U003,Brian Williams,Mechanical,1,A008,I012
+U004,Ashley Gray,Mechanical,2,A005,I020
+U005,Sandra Chavez,Mechanical,3,A012,I009
+U006,Ethan Mendoza,Civil,3,A013,I004
+U007,Sandra Jones,Electrical,1,A008,I004
+U008,Eric Cooley,Electrical,4,A008,I015
+U009,Natalie Maldonado DDS,Computer Science,4,A005,I007
+U010,Michael Watson,Computer Science,2,A009,I011
+U011,Sheila Watts,Electrical,1,A005,I005
+U012,William Goodwin,Civil,2,A006,I007
+U013,Shawn Thomas,Computer Science,3,A010,I005
+U014,Spencer White,Computer Science,3,A007,I010
+U015,Christina Wise,Civil,4,A018,I005
+U016,Shelley Johnson,Computer Science,1,A003,I002
+U017,Christian Thompson,Civil,4,A008,I005
+U018,Patricia Tyler,Electrical,2,A020,I014
+U019,David Turner,Mechanical,4,A011,I017
+U020,Philip Moore,Mechanical,3,A004,I020
+U021,Tammy Terry,Electrical,4,A014,I003
+U022,Ashley Ward,Electrical,1,A011,I000
+U023,Jordan Weiss,Mechanical,3,A010,I006
+U024,Rebecca Jackson,Computer Science,1,A000,I016
+U025,Mrs. Brandy Gonzales DDS,Civil,4,A010,I011
+U026,Jeffrey Johnson,Civil,1,A010,I001
+U027,Rhonda Adams,Mechanical,3,A009,I019
+U028,Anthony Alexander,Civil,4,A006,I018
+U029,Kevin Medina,Computer Science,1,A009,I016
+U030,Susan Wilson,Civil,2,A013,I013
+U031,Amanda Sutton,Mechanical,1,A006,I019
+U032,Stacy Brooks,Civil,3,A007,I000
+U033,Rhonda Zhang,Computer Science,1,A003,I016
+U034,Michael Robinson,Civil,2,A013,I006
+U035,Chelsey Smith,Mechanical,2,A010,I011
+U036,Matthew Vaughn,Computer Science,1,A012,I000
+U037,Christopher Lewis,Civil,3,A017,I011
+U038,Daniel Gross,Mechanical,2,A004,I000
+U039,Carl Underwood,Electrical,2,A020,I006
+U040,Steven Grant,Mechanical,3,A016,I003
+U041,Rhonda Ewing,Mechanical,4,A002,I008
+U042,John Schmidt,Mechanical,1,A013,I002
+U043,Alicia Harvey,Mechanical,4,A000,I012
+U044,Melissa Arias,Civil,4,A005,I012
+U045,Jillian Lewis,Mechanical,1,A011,I007
+U046,Richard Simmons,Electrical,4,A014,I010
+U047,Keith Miller,Electrical,4,A003,I011
+U048,Nicole Dennis,Electrical,2,A020,I012
+U049,Dr. Tina Richardson,Civil,3,A011,I004
+U050,Mr. Edwin Pratt,Electrical,4,A012,I013
+U051,Daisy Brooks,Computer Science,1,A015,I018
+U052,Diane Smith,Civil,2,A002,I008
+U053,Crystal Gallagher,Computer Science,4,A014,I003
+U054,Vincent Huber,Electrical,2,A018,I011
+U055,Kyle Stanton,Computer Science,1,A010,I002
+U056,Sarah Miller,Mechanical,1,A012,I002
+U057,Jennifer Garcia,Electrical,3,A004,I013
+U058,Daniel Johnson,Electrical,1,A011,I010
+U059,Steven Spears,Mechanical,2,A011,I001
+U060,Thomas Phelps,Civil,2,A001,I011
+U061,Carolyn Huang,Civil,3,A000,I015
+U062,Tara Butler,Computer Science,1,A010,I008
+U063,Caitlin Craig,Mechanical,4,A006,I010
+U064,Joseph Paul,Computer Science,1,A002,I018
+U065,Valerie Carrillo,Electrical,3,A003,I007
+U066,James Singleton,Electrical,3,A019,I018
+U067,Antonio Hall,Computer Science,4,A001,I007
+U068,Richard Gomez,Electrical,2,A002,I015
+U069,Cynthia Klein,Mechanical,2,A006,I007
+U070,Ashley Mendoza,Computer Science,4,A014,I010
+U071,Ian Holmes,Mechanical,2,A019,I012
+U072,Suzanne Proctor,Civil,2,A018,I019
+U073,Craig Hall,Civil,3,A002,I013
+U074,Amanda Graham,Computer Science,3,A020,I007
+U075,Dave Anderson,Electrical,2,A002,I018
+U076,Jessica Downs,Computer Science,1,A017,I004
+U077,Sabrina Green,Computer Science,3,A016,I005
+U078,Richard Rios,Mechanical,3,A016,I002
+U079,Joseph Burns,Electrical,1,A001,I009
+U080,Geoffrey Benson,Electrical,3,A010,I016
+U081,Michael Olson,Computer Science,1,A006,I008
+U082,Matthew Taylor,Civil,1,A014,I016
+U083,Russell Patel,Mechanical,2,A020,I015
+U084,Victoria Mendoza,Civil,2,A005,I005
+U085,Erica Torres,Mechanical,2,A019,I020
+U086,Alexander Wallace,Computer Science,3,A010,I007
+U087,Matthew Garcia,Electrical,1,A009,I006
+U088,Casey Hernandez,Computer Science,3,A003,I016
+U089,William Cox,Civil,1,A006,I007
+U090,Robert Rice,Mechanical,4,A011,I014
+U091,Gregory Goodman,Electrical,2,A007,I019
+U092,Amanda Galloway,Civil,1,A012,I007
+U093,Jeffrey Mccann,Mechanical,3,A006,I004
+U094,Christopher Stevens,Electrical,4,A019,I004
+U095,Andrew Hamilton,Mechanical,4,A016,I009
+U096,Steven Dickerson,Computer Science,4,A003,I006
+U097,Monica Smith,Computer Science,4,A010,I019
+U098,Darren Hart,Electrical,3,A013,I016
+U099,Daniel Lopez,Computer Science,2,A019,I003
+U100,Kim Lambert,Civil,1,A003,I003
