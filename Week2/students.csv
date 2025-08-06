@@ -1,101 +1,101 @@
 student_id,name,email,course,current_year,academic_mentor_id,industry_mentor_id
-S001,James Fry,james.fry@gmail.com,Cybersecurity and Ethical Hacking,1,AM011,IM020
-S002,Frank Miller,frank.miller@gmail.com,Artificial Intelligence and Machine Learning,4,AM011,IM005
-S003,Robert Frederick,robert.frederick@gmail.com,Computational Modelling and Programming,2,AM004,IM009
-S004,Karen Cook,karen.cook@gmail.com,Professional Project Management,3,AM007,IM011
-S005,Lisa Larson,lisa.larson@gmail.com,Business Intelligence and Strategy,2,AM002,IM009
-S006,Marc Jones,marc.jones@gmail.com,Human-Centred Computing,1,AM004,IM013
-S007,Edward Porter,edward.porter@gmail.com,Computational Modelling and Programming,3,AM009,IM014
-S008,David Becker,david.becker@gmail.com,Research Methods in Computing,4,AM009,IM004
-S009,Diana Wallace,diana.wallace@gmail.com,Interactive Media Design,3,AM003,IM015
-S010,Matthew Haas,matthew.haas@gmail.com,Computational Modelling and Programming,1,AM001,IM010
-S011,Terry Obrien,terry.obrien@gmail.com,Big Data Analysis and Visualisation,1,AM019,IM005
-S012,Ian Anderson,ian.anderson@gmail.com,Human-Centred Computing,3,AM012,IM020
-S013,Daniel Lester,daniel.lester@gmail.com,Software Engineering Principles,2,AM004,IM003
-S014,Nancy Cooper,nancy.cooper@gmail.com,Information Systems Management,4,AM007,IM002
-S015,Julie Hill,julie.hill@gmail.com,Information Systems Management,2,AM004,IM015
-S016,Ryan Stephenson,ryan.stephenson@gmail.com,Software Engineering Principles,3,AM002,IM002
-S017,Kelly Roberts,kelly.roberts@gmail.com,Artificial Intelligence and Machine Learning,4,AM001,IM007
-S018,Juan Brewer,juan.brewer@gmail.com,Computational Modelling and Programming,3,AM011,IM007
-S019,Stephanie Beck,stephanie.beck@gmail.com,Human-Centred Computing,1,AM014,IM009
-S020,Eric Diaz DDS,eric.diaz.dds@gmail.com,Business Intelligence and Strategy,1,AM004,IM017
-S021,Amanda Holloway,amanda.holloway@gmail.com,Big Data Analysis and Visualisation,2,AM004,IM020
-S022,Joseph Maldonado,joseph.maldonado@gmail.com,Business Intelligence and Strategy,4,AM009,IM010
-S023,Kaylee Long,kaylee.long@gmail.com,Big Data Analysis and Visualisation,1,AM015,IM012
-S024,Jesse Davies,jesse.davies@gmail.com,Cybersecurity and Ethical Hacking,4,AM018,IM010
-S025,Paul Salazar,paul.salazar@gmail.com,Artificial Intelligence and Machine Learning,1,AM016,IM007
-S026,Maureen Farrell,maureen.farrell@gmail.com,Big Data Analysis and Visualisation,2,AM009,IM002
-S027,Sarah Avila,sarah.avila@gmail.com,Human-Centred Computing,2,AM015,IM006
-S028,Donald Sims,donald.sims@gmail.com,Applied Data Science,1,AM015,IM008
-S029,Edward Brown,edward.brown@gmail.com,Interactive Media Design,2,AM017,IM003
-S030,Stephanie Dickson,stephanie.dickson@gmail.com,Business Intelligence and Strategy,3,AM020,IM014
-S031,Karl Adams,karl.adams@gmail.com,Big Data Analysis and Visualisation,3,AM017,IM003
-S032,Brooke Miller,brooke.miller@gmail.com,Information Systems Management,1,AM001,IM015
-S033,Madison Fox,madison.fox@gmail.com,Interactive Media Design,4,AM020,IM009
-S034,Cynthia Fitzpatrick DVM,cynthia.fitzpatrick.dvm@gmail.com,Cybersecurity and Ethical Hacking,1,AM007,IM015
-S035,Renee Smith,renee.smith@gmail.com,Interactive Media Design,3,AM003,IM011
-S036,Jeffery Jones,jeffery.jones@gmail.com,Artificial Intelligence and Machine Learning,1,AM019,IM015
-S037,Kyle Anthony,kyle.anthony@gmail.com,Big Data Analysis and Visualisation,1,AM011,IM007
-S038,Thomas Bradford,thomas.bradford@gmail.com,Cybersecurity and Ethical Hacking,2,AM006,IM012
-S039,Jerry Brewer,jerry.brewer@gmail.com,Business Intelligence and Strategy,4,AM006,IM002
-S040,Eric Nelson,eric.nelson@gmail.com,Artificial Intelligence and Machine Learning,4,AM019,IM001
-S041,Jacob Melton,jacob.melton@gmail.com,Research Methods in Computing,3,AM020,IM003
-S042,Jared Burton,jared.burton@gmail.com,Interactive Media Design,1,AM009,IM004
-S043,Joshua Franklin,joshua.franklin@gmail.com,Big Data Analysis and Visualisation,1,AM009,IM016
-S044,Evan Anderson,evan.anderson@gmail.com,Research Methods in Computing,2,AM017,IM005
-S045,Dale Price,dale.price@gmail.com,Cybersecurity and Ethical Hacking,1,AM011,IM014
-S046,Daniel Cook,daniel.cook@gmail.com,Big Data Analysis and Visualisation,4,AM001,IM007
-S047,Mckenzie Downs,mckenzie.downs@gmail.com,Professional Project Management,4,AM002,IM007
-S048,Chad Carter,chad.carter@gmail.com,Human-Centred Computing,2,AM009,IM011
-S049,Kelly White,kelly.white@gmail.com,Interactive Media Design,4,AM018,IM002
-S050,Blake Johnson,blake.johnson@gmail.com,Computational Modelling and Programming,3,AM003,IM001
-S051,Matthew Blackwell,matthew.blackwell@gmail.com,Artificial Intelligence and Machine Learning,1,AM003,IM020
-S052,Ryan Marshall,ryan.marshall@gmail.com,Interactive Media Design,4,AM018,IM007
-S053,Thomas Sanchez,thomas.sanchez@gmail.com,Interactive Media Design,3,AM010,IM001
-S054,Heather Holloway,heather.holloway@gmail.com,Information Systems Management,2,AM019,IM005
-S055,Whitney Armstrong,whitney.armstrong@gmail.com,Big Data Analysis and Visualisation,4,AM007,IM014
-S056,Judith Young,judith.young@gmail.com,Big Data Analysis and Visualisation,2,AM003,IM004
-S057,Cynthia Garrett,cynthia.garrett@gmail.com,Professional Project Management,3,AM001,IM008
-S058,Sydney Henderson,sydney.henderson@gmail.com,Human-Centred Computing,2,AM008,IM019
-S059,Diana Fitzgerald,diana.fitzgerald@gmail.com,Big Data Analysis and Visualisation,4,AM011,IM011
-S060,Jose Hahn,jose.hahn@gmail.com,Cybersecurity and Ethical Hacking,1,AM011,IM017
-S061,Adam Whitaker,adam.whitaker@gmail.com,Professional Project Management,2,AM013,IM001
-S062,Derek Davidson,derek.davidson@gmail.com,Interactive Media Design,3,AM019,IM018
-S063,Joseph Allen,joseph.allen@gmail.com,Big Data Analysis and Visualisation,1,AM015,IM020
-S064,Christian Byrd,christian.byrd@gmail.com,Interactive Media Design,3,AM018,IM015
-S065,Jo Perez,jo.perez@gmail.com,Professional Project Management,1,AM001,IM019
-S066,Gloria Cisneros,gloria.cisneros@gmail.com,Information Systems Management,3,AM001,IM019
-S067,Gregory Montgomery,gregory.montgomery@gmail.com,Information Systems Management,1,AM019,IM013
-S068,Heather Horton,heather.horton@gmail.com,Professional Project Management,2,AM014,IM004
-S069,Kristin Doyle,kristin.doyle@gmail.com,Business Intelligence and Strategy,2,AM015,IM012
-S070,Amanda Moses,amanda.moses@gmail.com,Research Methods in Computing,1,AM010,IM009
-S071,Jeffery Hernandez,jeffery.hernandez@gmail.com,Professional Project Management,2,AM011,IM017
-S072,Jordan Clark,jordan.clark@gmail.com,Human-Centred Computing,3,AM013,IM008
-S073,Amy Adams,amy.adams@gmail.com,Business Intelligence and Strategy,4,AM016,IM003
-S074,Deborah Elliott,deborah.elliott@gmail.com,Artificial Intelligence and Machine Learning,1,AM012,IM017
-S075,Jesse Jones,jesse.jones@gmail.com,Information Systems Management,3,AM015,IM010
-S076,Stacey Williams,stacey.williams@gmail.com,Applied Data Science,2,AM017,IM019
-S077,Mark Norton,mark.norton@gmail.com,Interactive Media Design,4,AM007,IM009
-S078,Kevin Walker,kevin.walker@gmail.com,Applied Data Science,4,AM010,IM004
-S079,James Nixon,james.nixon@gmail.com,Big Data Analysis and Visualisation,3,AM015,IM015
-S080,Jeremy Gray,jeremy.gray@gmail.com,Information Systems Management,4,AM010,IM009
-S081,Dan Dominguez,dan.dominguez@gmail.com,Big Data Analysis and Visualisation,4,AM020,IM020
-S082,David Carter,david.carter@gmail.com,Artificial Intelligence and Machine Learning,1,AM019,IM009
-S083,Daniel Adams,daniel.adams@gmail.com,Information Systems Management,2,AM012,IM003
-S084,Nicholas Walker,nicholas.walker@gmail.com,Software Engineering Principles,1,AM001,IM015
-S085,Matthew Terrell,matthew.terrell@gmail.com,Information Systems Management,4,AM013,IM015
-S086,Seth West,seth.west@gmail.com,Information Systems Management,1,AM008,IM006
-S087,Andrew Kelly,andrew.kelly@gmail.com,Research Methods in Computing,1,AM001,IM002
-S088,Carl Diaz,carl.diaz@gmail.com,Software Engineering Principles,3,AM012,IM005
-S089,Thomas Wilkins,thomas.wilkins@gmail.com,Software Engineering Principles,1,AM013,IM013
-S090,Taylor Good,taylor.good@gmail.com,Research Methods in Computing,2,AM019,IM012
-S091,Sarah Douglas,sarah.douglas@gmail.com,Information Systems Management,4,AM011,IM019
-S092,William Nicholson,william.nicholson@gmail.com,Human-Centred Computing,1,AM003,IM009
-S093,Alexander Hoffman,alexander.hoffman@gmail.com,Computational Modelling and Programming,3,AM020,IM008
-S094,Calvin Austin,calvin.austin@gmail.com,Computational Modelling and Programming,3,AM015,IM014
-S095,Adam Jimenez,adam.jimenez@gmail.com,Computational Modelling and Programming,3,AM019,IM003
-S096,Rachael Nguyen,rachael.nguyen@gmail.com,Professional Project Management,3,AM003,IM006
-S097,David Kennedy,david.kennedy@gmail.com,Human-Centred Computing,2,AM007,IM006
-S098,Jessica Taylor,jessica.taylor@gmail.com,Big Data Analysis and Visualisation,1,AM011,IM005
-S099,Lisa Espinoza,lisa.espinoza@gmail.com,Big Data Analysis and Visualisation,2,AM009,IM013
-S100,Jeffrey Beard,jeffrey.beard@gmail.com,Computational Modelling and Programming,3,AM006,IM009
+S001,Lee Olson,lee.olson@gmail.com,Big Data Analysis and Visualisation,1,AM011,IM015
+S002,Bryan Wilkins,bryan.wilkins@gmail.com,Cybersecurity and Ethical Hacking,4,AM009,IM019
+S003,Aaron Beck,aaron.beck@gmail.com,Artificial Intelligence and Machine Learning,4,AM002,IM002
+S004,Alexander Bailey,alexander.bailey@gmail.com,Big Data Analysis and Visualisation,3,AM001,IM012
+S005,Meghan Garza,meghan.garza@gmail.com,Software Engineering Principles,3,AM008,IM012
+S006,Carlos King,carlos.king@gmail.com,Interactive Media Design,1,AM009,IM005
+S007,George Day,george.day@gmail.com,Software Engineering Principles,4,AM019,IM009
+S008,Katie Kane,katie.kane@gmail.com,Professional Project Management,4,AM015,IM016
+S009,Mary Wolfe,mary.wolfe@gmail.com,Research Methods in Computing,3,AM009,IM018
+S010,Natalie Whitaker,natalie.whitaker@gmail.com,Big Data Analysis and Visualisation,4,AM009,IM005
+S011,Kristin Ford,kristin.ford@gmail.com,Cybersecurity and Ethical Hacking,2,AM005,IM003
+S012,Nancy Wade,nancy.wade@gmail.com,Computational Modelling and Programming,1,AM004,IM007
+S013,Nichole Scott,nichole.scott@gmail.com,Applied Data Science,3,AM001,IM005
+S014,Tyler Ford,tyler.ford@gmail.com,Interactive Media Design,3,AM019,IM018
+S015,Kelsey Johnson,kelsey.johnson@gmail.com,Human-Centred Computing,1,AM014,IM016
+S016,Alisha Ayala,alisha.ayala@gmail.com,Big Data Analysis and Visualisation,1,AM006,IM002
+S017,Patrick Henry,patrick.henry@gmail.com,Applied Data Science,3,AM008,IM003
+S018,Catherine Mccarty,catherine.mccarty@gmail.com,Applied Data Science,3,AM020,IM018
+S019,Ricky Benson,ricky.benson@gmail.com,Artificial Intelligence and Machine Learning,2,AM017,IM002
+S020,Calvin Fisher,calvin.fisher@gmail.com,Business Intelligence and Strategy,3,AM003,IM008
+S021,Samantha Roberts DDS,samantha.roberts.dds@gmail.com,Artificial Intelligence and Machine Learning,2,AM017,IM017
+S022,Christopher Lopez,christopher.lopez@gmail.com,Applied Data Science,4,AM009,IM013
+S023,Christopher Brooks,christopher.brooks@gmail.com,Information Systems Management,4,AM008,IM015
+S024,Jimmy Parker,jimmy.parker@gmail.com,Big Data Analysis and Visualisation,2,AM001,IM009
+S025,Sandra Young,sandra.young@gmail.com,Information Systems Management,1,AM016,IM005
+S026,Angela Haley,angela.haley@gmail.com,Computational Modelling and Programming,3,AM017,IM003
+S027,Matthew Myers,matthew.myers@gmail.com,Interactive Media Design,1,AM003,IM005
+S028,Randy Perez,randy.perez@gmail.com,Computational Modelling and Programming,2,AM009,IM001
+S029,Kevin Bautista,kevin.bautista@gmail.com,Information Systems Management,3,AM012,IM015
+S030,Jeffrey Turner,jeffrey.turner@gmail.com,Artificial Intelligence and Machine Learning,3,AM008,IM014
+S031,Samuel Thompson,samuel.thompson@gmail.com,Professional Project Management,2,AM010,IM018
+S032,Sarah Peters,sarah.peters@gmail.com,Cybersecurity and Ethical Hacking,4,AM018,IM018
+S033,Jessica Martinez,jessica.martinez@gmail.com,Information Systems Management,1,AM007,IM018
+S034,Cynthia Bowen,cynthia.bowen@gmail.com,Business Intelligence and Strategy,2,AM017,IM011
+S035,Julie Foley,julie.foley@gmail.com,Research Methods in Computing,1,AM005,IM007
+S036,Luke Jackson,luke.jackson@gmail.com,Business Intelligence and Strategy,3,AM015,IM013
+S037,Terri Williams,terri.williams@gmail.com,Business Intelligence and Strategy,3,AM015,IM004
+S038,Jasmine Lewis,jasmine.lewis@gmail.com,Big Data Analysis and Visualisation,1,AM006,IM003
+S039,Troy Cook,troy.cook@gmail.com,Human-Centred Computing,1,AM004,IM009
+S040,Sylvia Ibarra,sylvia.ibarra@gmail.com,Big Data Analysis and Visualisation,4,AM001,IM011
+S041,Theresa Morris,theresa.morris@gmail.com,Big Data Analysis and Visualisation,3,AM009,IM017
+S042,Mark Thompson,mark.thompson@gmail.com,Big Data Analysis and Visualisation,1,AM018,IM001
+S043,Kerri Sullivan,kerri.sullivan@gmail.com,Human-Centred Computing,2,AM019,IM014
+S044,Julie Mason,julie.mason@gmail.com,Information Systems Management,1,AM005,IM018
+S045,Kevin Moore,kevin.moore@gmail.com,Cybersecurity and Ethical Hacking,4,AM012,IM012
+S046,Jacqueline Cannon,jacqueline.cannon@gmail.com,Professional Project Management,2,AM006,IM019
+S047,Joshua Paul,joshua.paul@gmail.com,Applied Data Science,1,AM018,IM010
+S048,Brenda Mcdaniel,brenda.mcdaniel@gmail.com,Software Engineering Principles,3,AM005,IM011
+S049,Linda Brown,linda.brown@gmail.com,Information Systems Management,2,AM019,IM010
+S050,Desiree Carter,desiree.carter@gmail.com,Business Intelligence and Strategy,1,AM016,IM018
+S051,James Jensen,james.jensen@gmail.com,Artificial Intelligence and Machine Learning,3,AM004,IM011
+S052,Tammy Davis,tammy.davis@gmail.com,Interactive Media Design,2,AM016,IM001
+S053,Cody Stokes,cody.stokes@gmail.com,Research Methods in Computing,3,AM011,IM017
+S054,Marcus Carter,marcus.carter@gmail.com,Artificial Intelligence and Machine Learning,3,AM020,IM012
+S055,Jacob Sanchez,jacob.sanchez@gmail.com,Applied Data Science,3,AM019,IM007
+S056,Belinda Davidson,belinda.davidson@gmail.com,Applied Data Science,2,AM015,IM016
+S057,Jeffrey Wiggins,jeffrey.wiggins@gmail.com,Cybersecurity and Ethical Hacking,3,AM006,IM019
+S058,Jacob Vazquez,jacob.vazquez@gmail.com,Big Data Analysis and Visualisation,2,AM011,IM009
+S059,James Fry,james.fry@gmail.com,Computational Modelling and Programming,1,AM019,IM004
+S060,Tom Deleon,tom.deleon@gmail.com,Software Engineering Principles,1,AM020,IM001
+S061,Thomas Weeks,thomas.weeks@gmail.com,Computational Modelling and Programming,3,AM006,IM011
+S062,Nicolas Williams,nicolas.williams@gmail.com,Artificial Intelligence and Machine Learning,2,AM006,IM006
+S063,Kimberly Jones,kimberly.jones@gmail.com,Information Systems Management,2,AM017,IM010
+S064,Lisa Ruiz,lisa.ruiz@gmail.com,Software Engineering Principles,1,AM012,IM003
+S065,Amy Williams,amy.williams@gmail.com,Computational Modelling and Programming,1,AM005,IM013
+S066,Kelly Avila,kelly.avila@gmail.com,Professional Project Management,3,AM009,IM009
+S067,Deborah Nash,deborah.nash@gmail.com,Applied Data Science,1,AM011,IM020
+S068,Kristin Cochran,kristin.cochran@gmail.com,Applied Data Science,4,AM016,IM009
+S069,Benjamin Payne,benjamin.payne@gmail.com,Interactive Media Design,3,AM014,IM001
+S070,Jaime Jackson,jaime.jackson@gmail.com,Human-Centred Computing,3,AM011,IM007
+S071,Jennifer Mcdonald,jennifer.mcdonald@gmail.com,Information Systems Management,4,AM004,IM015
+S072,Jason Myers,jason.myers@gmail.com,Software Engineering Principles,4,AM008,IM005
+S073,Catherine Wong,catherine.wong@gmail.com,Research Methods in Computing,4,AM005,IM010
+S074,Charles Wilson,charles.wilson@gmail.com,Applied Data Science,4,AM001,IM011
+S075,Alec Rose,alec.rose@gmail.com,Artificial Intelligence and Machine Learning,4,AM005,IM019
+S076,Isaiah Chavez,isaiah.chavez@gmail.com,Business Intelligence and Strategy,1,AM018,IM004
+S077,Dana Terrell,dana.terrell@gmail.com,Research Methods in Computing,2,AM019,IM016
+S078,Connie Howard,connie.howard@gmail.com,Software Engineering Principles,2,AM006,IM007
+S079,John Gonzalez,john.gonzalez@gmail.com,Interactive Media Design,2,AM020,IM005
+S080,Lori Smith,lori.smith@gmail.com,Research Methods in Computing,2,AM014,IM019
+S081,Eileen Torres,eileen.torres@gmail.com,Applied Data Science,4,AM001,IM003
+S082,Jessica Butler,jessica.butler@gmail.com,Business Intelligence and Strategy,4,AM006,IM004
+S083,Jeffrey Mcdowell,jeffrey.mcdowell@gmail.com,Artificial Intelligence and Machine Learning,4,AM011,IM015
+S084,Jodi Patel,jodi.patel@gmail.com,Human-Centred Computing,2,AM020,IM018
+S085,Laura Price,laura.price@gmail.com,Information Systems Management,3,AM002,IM004
+S086,Sandra Moore,sandra.moore@gmail.com,Computational Modelling and Programming,1,AM011,IM001
+S087,Andrew Berry,andrew.berry@gmail.com,Computational Modelling and Programming,1,AM007,IM012
+S088,Gavin Davis,gavin.davis@gmail.com,Interactive Media Design,1,AM017,IM002
+S089,Kimberly Curry,kimberly.curry@gmail.com,Artificial Intelligence and Machine Learning,3,AM019,IM012
+S090,Jeanette Powell,jeanette.powell@gmail.com,Research Methods in Computing,3,AM005,IM020
+S091,Jessica Skinner,jessica.skinner@gmail.com,Computational Modelling and Programming,3,AM020,IM020
+S092,Deborah Hogan,deborah.hogan@gmail.com,Cybersecurity and Ethical Hacking,4,AM016,IM001
+S093,Carla Ross,carla.ross@gmail.com,Applied Data Science,2,AM002,IM018
+S094,Thomas Simmons,thomas.simmons@gmail.com,Business Intelligence and Strategy,3,AM020,IM006
+S095,Nancy Harris,nancy.harris@gmail.com,Software Engineering Principles,4,AM003,IM020
+S096,Daniel Winters,daniel.winters@gmail.com,Professional Project Management,1,AM019,IM017
+S097,Michele Phillips,michele.phillips@gmail.com,Software Engineering Principles,4,AM003,IM007
+S098,Peter Webb,peter.webb@gmail.com,Computational Modelling and Programming,1,AM020,IM002
+S099,Christine Bartlett,christine.bartlett@gmail.com,Professional Project Management,2,AM020,IM006
+S100,Tami Harris,tami.harris@gmail.com,Professional Project Management,3,AM019,IM018
