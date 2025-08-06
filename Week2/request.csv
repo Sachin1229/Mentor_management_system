@@ -1,31 +1,31 @@
 request_id,student_id,reason,category
-RQ001,S039,Family Emergency,meeting
-RQ002,S046,Corporate Overwork / High Workload,assignment
-RQ003,S026,Mentor Unavailability / Meeting Canceled by Mentor,meeting
-RQ004,S076,Family Emergency,assignment
-RQ005,S020,Visa or Legal Paperwork Delays,attendance
-RQ006,S033,"Approved Leave (Vacation, Wedding, etc.)",attendance
-RQ007,S064,"Approved Leave (Vacation, Wedding, etc.)",attendance
-RQ008,S028,"Approved Leave (Vacation, Wedding, etc.)",attendance
-RQ009,S039,Family Emergency,assignment
-RQ010,S066,Family Emergency,meeting
-RQ011,S053,"Approved Leave (Vacation, Wedding, etc.)",attendance
-RQ012,S038,"Approved Leave (Vacation, Wedding, etc.)",attendance
-RQ013,S074,Medical Emergency,assignment
-RQ014,S022,Miscommunication or Delay in Assignment Communication,assignment
-RQ015,S091,Miscommunication or Delay in Assignment Communication,assignment
-RQ016,S100,Medical Emergency,attendance
-RQ017,S063,Visa or Legal Paperwork Delays,attendance
-RQ018,S087,Family Emergency,assignment
-RQ019,S031,"Approved Leave (Vacation, Wedding, etc.)",attendance
-RQ020,S013,Family Emergency,assignment
-RQ021,S048,Mental Health Leave / Counselling,attendance
-RQ022,S019,Medical Emergency,meeting
-RQ023,S054,Medical Emergency,meeting
-RQ024,S017,Medical Emergency,attendance
-RQ025,S039,Corporate Overwork / High Workload,meeting
-RQ026,S068,Medical Emergency,attendance
-RQ027,S044,Medical Emergency,meeting
-RQ028,S096,Mental Health Leave / Counselling,attendance
-RQ029,S025,Corporate Overwork / High Workload,assignment
-RQ030,S096,Medical Emergency,assignment
+RQ001,S059,Mentor Unavailability / Meeting Canceled by Mentor,meeting
+RQ002,S087,Medical Emergency,assignment
+RQ003,S011,Extension Approved by Academic Mentor,assignment
+RQ004,S079,Family Emergency,meeting
+RQ005,S056,Mentor Unavailability / Meeting Canceled by Mentor,meeting
+RQ006,S066,Family Emergency,meeting
+RQ007,S030,Mentor Unavailability / Meeting Canceled by Mentor,meeting
+RQ008,S065,Medical Emergency,attendance
+RQ009,S003,Visa or Legal Paperwork Delays,attendance
+RQ010,S058,Visa or Legal Paperwork Delays,attendance
+RQ011,S019,Medical Emergency,meeting
+RQ012,S079,Medical Emergency,assignment
+RQ013,S080,Mentor Unavailability / Meeting Canceled by Mentor,meeting
+RQ014,S035,Family Emergency,attendance
+RQ015,S002,"Approved Leave (Vacation, Wedding, etc.)",attendance
+RQ016,S062,Family Emergency,attendance
+RQ017,S022,Mental Health Leave / Counselling,attendance
+RQ018,S052,Miscommunication or Delay in Assignment Communication,assignment
+RQ019,S086,Medical Emergency,assignment
+RQ020,S051,Miscommunication or Delay in Assignment Communication,assignment
+RQ021,S033,Mental Health Leave / Counselling,attendance
+RQ022,S061,Family Emergency,attendance
+RQ023,S014,Mentor Unavailability / Meeting Canceled by Mentor,meeting
+RQ024,S015,Medical Emergency,assignment
+RQ025,S067,Miscommunication or Delay in Assignment Communication,assignment
+RQ026,S031,Mentor Unavailability / Meeting Canceled by Mentor,meeting
+RQ027,S072,Mentor Unavailability / Meeting Canceled by Mentor,meeting
+RQ028,S058,Miscommunication or Delay in Assignment Communication,assignment
+RQ029,S029,Mentor Unavailability / Meeting Canceled by Mentor,meeting
+RQ030,S022,Mentor Unavailability / Meeting Canceled by Mentor,meeting
