@@ -1,31 +1,31 @@
 request_id,student_id,reason,category
-RQ001,S071,"Approved Leave (Vacation, Wedding, etc.)",attendance
-RQ002,S063,Visa or Legal Paperwork Delays,attendance
-RQ003,S049,Medical Emergency,assignment
-RQ004,S083,Corporate Overwork / High Workload,attendance
-RQ005,S047,Visa or Legal Paperwork Delays,attendance
-RQ006,S029,Corporate Overwork / High Workload,meeting
-RQ007,S068,"Approved Leave (Vacation, Wedding, etc.)",attendance
-RQ008,S087,Family Emergency,attendance
-RQ009,S077,Medical Emergency,attendance
-RQ010,S056,Medical Emergency,assignment
-RQ011,S027,Mental Health Leave / Counselling,attendance
-RQ012,S051,Family Emergency,assignment
-RQ013,S078,Extension Approved by Academic Mentor,assignment
-RQ014,S014,Family Emergency,meeting
-RQ015,S039,Medical Emergency,assignment
-RQ016,S042,Medical Emergency,attendance
-RQ017,S037,Family Emergency,attendance
-RQ018,S076,Mentor Unavailability / Meeting Canceled by Mentor,meeting
-RQ019,S078,Visa or Legal Paperwork Delays,attendance
-RQ020,S070,Mentor Unavailability / Meeting Canceled by Mentor,meeting
-RQ021,S092,Family Emergency,meeting
-RQ022,S015,Miscommunication or Delay in Assignment Communication,assignment
-RQ023,S082,Extension Approved by Academic Mentor,assignment
-RQ024,S011,Miscommunication or Delay in Assignment Communication,assignment
-RQ025,S052,Medical Emergency,meeting
-RQ026,S099,Family Emergency,attendance
-RQ027,S014,Family Emergency,meeting
-RQ028,S049,Medical Emergency,assignment
-RQ029,S041,"Approved Leave (Vacation, Wedding, etc.)",attendance
-RQ030,S003,Medical Emergency,attendance
+RQ001,S039,Family Emergency,meeting
+RQ002,S046,Corporate Overwork / High Workload,assignment
+RQ003,S026,Mentor Unavailability / Meeting Canceled by Mentor,meeting
+RQ004,S076,Family Emergency,assignment
+RQ005,S020,Visa or Legal Paperwork Delays,attendance
+RQ006,S033,"Approved Leave (Vacation, Wedding, etc.)",attendance
+RQ007,S064,"Approved Leave (Vacation, Wedding, etc.)",attendance
+RQ008,S028,"Approved Leave (Vacation, Wedding, etc.)",attendance
+RQ009,S039,Family Emergency,assignment
+RQ010,S066,Family Emergency,meeting
+RQ011,S053,"Approved Leave (Vacation, Wedding, etc.)",attendance
+RQ012,S038,"Approved Leave (Vacation, Wedding, etc.)",attendance
+RQ013,S074,Medical Emergency,assignment
+RQ014,S022,Miscommunication or Delay in Assignment Communication,assignment
+RQ015,S091,Miscommunication or Delay in Assignment Communication,assignment
+RQ016,S100,Medical Emergency,attendance
+RQ017,S063,Visa or Legal Paperwork Delays,attendance
+RQ018,S087,Family Emergency,assignment
+RQ019,S031,"Approved Leave (Vacation, Wedding, etc.)",attendance
+RQ020,S013,Family Emergency,assignment
+RQ021,S048,Mental Health Leave / Counselling,attendance
+RQ022,S019,Medical Emergency,meeting
+RQ023,S054,Medical Emergency,meeting
+RQ024,S017,Medical Emergency,attendance
+RQ025,S039,Corporate Overwork / High Workload,meeting
+RQ026,S068,Medical Emergency,attendance
+RQ027,S044,Medical Emergency,meeting
+RQ028,S096,Mental Health Leave / Counselling,attendance
+RQ029,S025,Corporate Overwork / High Workload,assignment
+RQ030,S096,Medical Emergency,assignment
