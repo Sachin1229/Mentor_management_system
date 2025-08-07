@@ -1,31 +1,31 @@
 request_id,student_id,reason,category
-RQ001,S036,Family Emergency,attendance
-RQ002,S050,Mentor Unavailability / Meeting Canceled by Mentor,meeting
-RQ003,S028,Corporate Overwork / High Workload,attendance
-RQ004,S020,Visa or Legal Paperwork Delays,attendance
-RQ005,S091,Family Emergency,meeting
-RQ006,S061,Visa or Legal Paperwork Delays,attendance
-RQ007,S014,Mentor Unavailability / Meeting Canceled by Mentor,meeting
-RQ008,S100,Medical Emergency,assignment
-RQ009,S097,Medical Emergency,assignment
-RQ010,S057,"Approved Leave (Vacation, Wedding, etc.)",attendance
-RQ011,S005,Corporate Overwork / High Workload,meeting
-RQ012,S079,Mentor Unavailability / Meeting Canceled by Mentor,meeting
-RQ013,S056,Corporate Overwork / High Workload,assignment
-RQ014,S043,Family Emergency,attendance
-RQ015,S006,Miscommunication or Delay in Assignment Communication,assignment
-RQ016,S070,Miscommunication or Delay in Assignment Communication,assignment
-RQ017,S092,Corporate Overwork / High Workload,meeting
-RQ018,S032,Miscommunication or Delay in Assignment Communication,assignment
-RQ019,S100,Mentor Unavailability / Meeting Canceled by Mentor,meeting
-RQ020,S040,Mentor Unavailability / Meeting Canceled by Mentor,meeting
-RQ021,S029,"Approved Leave (Vacation, Wedding, etc.)",attendance
-RQ022,S004,Family Emergency,meeting
-RQ023,S084,Corporate Overwork / High Workload,meeting
-RQ024,S061,Family Emergency,meeting
-RQ025,S044,Mentor Unavailability / Meeting Canceled by Mentor,meeting
-RQ026,S036,Extension Approved by Academic Mentor,assignment
-RQ027,S024,Corporate Overwork / High Workload,meeting
-RQ028,S033,"Approved Leave (Vacation, Wedding, etc.)",attendance
-RQ029,S046,Corporate Overwork / High Workload,assignment
-RQ030,S065,Family Emergency,attendance
+RQ001,S047,Mentor Unavailability / Meeting Canceled by Mentor,meeting
+RQ002,S032,Corporate Overwork / High Workload,attendance
+RQ003,S080,Medical Emergency,attendance
+RQ004,S025,Mental Health Leave / Counselling,attendance
+RQ005,S089,"Approved Leave (Vacation, Wedding, etc.)",attendance
+RQ006,S085,Corporate Overwork / High Workload,meeting
+RQ007,S036,Medical Emergency,attendance
+RQ008,S041,Corporate Overwork / High Workload,meeting
+RQ009,S008,Corporate Overwork / High Workload,attendance
+RQ010,S073,Visa or Legal Paperwork Delays,attendance
+RQ011,S023,Corporate Overwork / High Workload,meeting
+RQ012,S012,Medical Emergency,attendance
+RQ013,S069,Miscommunication or Delay in Assignment Communication,assignment
+RQ014,S070,Mental Health Leave / Counselling,attendance
+RQ015,S022,Mentor Unavailability / Meeting Canceled by Mentor,meeting
+RQ016,S003,Medical Emergency,attendance
+RQ017,S073,Extension Approved by Academic Mentor,assignment
+RQ018,S081,Medical Emergency,attendance
+RQ019,S059,"Approved Leave (Vacation, Wedding, etc.)",attendance
+RQ020,S062,Family Emergency,meeting
+RQ021,S100,Medical Emergency,attendance
+RQ022,S062,Corporate Overwork / High Workload,meeting
+RQ023,S068,Mental Health Leave / Counselling,attendance
+RQ024,S074,Corporate Overwork / High Workload,meeting
+RQ025,S092,Family Emergency,attendance
+RQ026,S058,Medical Emergency,assignment
+RQ027,S041,Corporate Overwork / High Workload,assignment
+RQ028,S018,Visa or Legal Paperwork Delays,attendance
+RQ029,S066,Corporate Overwork / High Workload,assignment
+RQ030,S076,Medical Emergency,meeting
