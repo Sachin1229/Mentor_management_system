@@ -1,193 +1,195 @@
 request_id,student_id,reason,category,request_date
-RQ001,S001,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-04-11
-RQ002,S002,Mental Health Leave / Counselling,attendance,2025-05-30
-RQ003,S002,Family Emergency,attendance,2025-05-31
-RQ004,S002,Family Emergency,attendance,2025-06-14
-RQ005,S002,Family Emergency,assignment,2025-05-07
-RQ006,S003,Corporate Overwork / High Workload,attendance,2025-06-15
-RQ007,S003,Family Emergency,meeting,2025-06-20
-RQ008,S003,Miscommunication or Delay in Assignment Communication,assignment,2025-06-17
-RQ009,S004,Family Emergency,assignment,2025-05-14
-RQ010,S004,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-06-13
-RQ011,S004,Visa or Legal Paperwork Delays,attendance,2025-05-27
-RQ012,S004,Family Emergency,attendance,2025-05-19
-RQ013,S005,Corporate Overwork / High Workload,attendance,2025-06-08
-RQ014,S005,Family Emergency,assignment,2025-05-06
-RQ015,S007,Medical Emergency,attendance,2025-04-17
-RQ016,S007,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-05-13
-RQ017,S007,Family Emergency,meeting,2025-05-15
-RQ018,S007,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-06-23
-RQ019,S008,Visa or Legal Paperwork Delays,attendance,2025-05-10
-RQ020,S012,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-04-01
-RQ021,S012,Medical Emergency,assignment,2025-05-09
-RQ022,S013,Visa or Legal Paperwork Delays,attendance,2025-04-13
-RQ023,S013,Corporate Overwork / High Workload,attendance,2025-05-24
-RQ024,S013,Family Emergency,attendance,2025-05-30
-RQ025,S013,Medical Emergency,assignment,2025-04-27
-RQ026,S014,Corporate Overwork / High Workload,attendance,2025-05-21
-RQ027,S014,Family Emergency,meeting,2025-06-23
-RQ028,S015,Medical Emergency,meeting,2025-04-11
-RQ029,S016,Family Emergency,assignment,2025-04-11
-RQ030,S016,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-06-14
-RQ031,S016,Medical Emergency,meeting,2025-05-10
-RQ032,S016,Corporate Overwork / High Workload,attendance,2025-04-23
-RQ033,S017,Medical Emergency,meeting,2025-05-10
-RQ034,S018,Family Emergency,attendance,2025-06-20
-RQ035,S018,Medical Emergency,assignment,2025-06-18
-RQ036,S020,Extension Approved by Academic Mentor,assignment,2025-06-14
-RQ037,S020,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-05-09
-RQ038,S021,Medical Emergency,attendance,2025-04-09
-RQ039,S021,Corporate Overwork / High Workload,meeting,2025-04-11
-RQ040,S021,Corporate Overwork / High Workload,meeting,2025-04-25
-RQ041,S022,Extension Approved by Academic Mentor,assignment,2025-04-19
-RQ042,S022,Miscommunication or Delay in Assignment Communication,assignment,2025-06-10
-RQ043,S023,Miscommunication or Delay in Assignment Communication,assignment,2025-04-17
-RQ044,S023,Medical Emergency,meeting,2025-04-05
-RQ045,S023,Miscommunication or Delay in Assignment Communication,assignment,2025-05-20
-RQ046,S024,Medical Emergency,attendance,2025-06-07
-RQ047,S024,Extension Approved by Academic Mentor,assignment,2025-05-24
-RQ048,S024,Visa or Legal Paperwork Delays,attendance,2025-05-07
-RQ049,S024,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-05-07
-RQ050,S025,Corporate Overwork / High Workload,attendance,2025-05-21
-RQ051,S025,Medical Emergency,attendance,2025-04-21
-RQ052,S025,Family Emergency,attendance,2025-06-20
-RQ053,S025,Family Emergency,assignment,2025-04-18
-RQ054,S026,Miscommunication or Delay in Assignment Communication,assignment,2025-06-20
-RQ055,S026,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-04-11
-RQ056,S026,Corporate Overwork / High Workload,meeting,2025-06-21
-RQ057,S026,Family Emergency,assignment,2025-04-16
-RQ058,S028,Family Emergency,attendance,2025-04-16
-RQ059,S029,Corporate Overwork / High Workload,assignment,2025-04-16
-RQ060,S030,Miscommunication or Delay in Assignment Communication,assignment,2025-05-11
-RQ061,S030,Extension Approved by Academic Mentor,assignment,2025-04-18
-RQ062,S031,Family Emergency,attendance,2025-06-13
-RQ063,S031,Family Emergency,meeting,2025-04-02
-RQ064,S031,Miscommunication or Delay in Assignment Communication,assignment,2025-05-23
-RQ065,S031,Corporate Overwork / High Workload,assignment,2025-05-24
-RQ066,S032,Corporate Overwork / High Workload,assignment,2025-04-29
-RQ067,S033,Corporate Overwork / High Workload,attendance,2025-06-10
-RQ068,S034,Medical Emergency,assignment,2025-05-16
-RQ069,S034,Corporate Overwork / High Workload,assignment,2025-04-27
-RQ070,S034,Corporate Overwork / High Workload,assignment,2025-05-20
-RQ071,S035,Medical Emergency,assignment,2025-04-28
-RQ072,S035,Visa or Legal Paperwork Delays,attendance,2025-04-13
-RQ073,S035,Corporate Overwork / High Workload,meeting,2025-05-17
-RQ074,S036,Corporate Overwork / High Workload,attendance,2025-06-07
-RQ075,S036,Medical Emergency,meeting,2025-06-15
-RQ076,S037,Family Emergency,attendance,2025-04-04
-RQ077,S037,Corporate Overwork / High Workload,attendance,2025-06-02
-RQ078,S037,Medical Emergency,meeting,2025-05-17
-RQ079,S037,Corporate Overwork / High Workload,assignment,2025-04-19
-RQ080,S038,Corporate Overwork / High Workload,attendance,2025-06-15
-RQ081,S038,Visa or Legal Paperwork Delays,attendance,2025-05-02
-RQ082,S038,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-05-03
-RQ083,S038,Corporate Overwork / High Workload,meeting,2025-06-04
-RQ084,S039,Miscommunication or Delay in Assignment Communication,assignment,2025-05-19
-RQ085,S040,Medical Emergency,assignment,2025-04-17
-RQ086,S040,Family Emergency,attendance,2025-05-18
-RQ087,S040,Corporate Overwork / High Workload,assignment,2025-04-06
-RQ088,S041,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-04-08
-RQ089,S041,Corporate Overwork / High Workload,attendance,2025-04-16
-RQ090,S042,Corporate Overwork / High Workload,assignment,2025-06-03
-RQ091,S042,Family Emergency,meeting,2025-06-06
-RQ092,S043,Medical Emergency,assignment,2025-06-10
-RQ093,S043,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-04-22
-RQ094,S043,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-05-11
-RQ095,S044,Corporate Overwork / High Workload,attendance,2025-05-30
-RQ096,S046,Extension Approved by Academic Mentor,assignment,2025-06-13
-RQ097,S048,Mental Health Leave / Counselling,attendance,2025-06-02
-RQ098,S048,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-04-30
-RQ099,S048,Family Emergency,attendance,2025-04-16
-RQ100,S049,Mental Health Leave / Counselling,attendance,2025-06-21
-RQ101,S049,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-05-24
-RQ102,S049,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-06-04
-RQ103,S049,Medical Emergency,assignment,2025-06-04
-RQ104,S050,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-06-15
-RQ105,S050,Medical Emergency,meeting,2025-04-06
-RQ106,S050,Miscommunication or Delay in Assignment Communication,assignment,2025-05-27
-RQ107,S051,Medical Emergency,meeting,2025-05-13
-RQ108,S051,Medical Emergency,meeting,2025-05-05
-RQ109,S051,Medical Emergency,attendance,2025-06-12
-RQ110,S051,Corporate Overwork / High Workload,assignment,2025-05-08
-RQ111,S053,Family Emergency,attendance,2025-06-13
-RQ112,S053,Miscommunication or Delay in Assignment Communication,assignment,2025-06-17
-RQ113,S053,Family Emergency,meeting,2025-04-20
-RQ114,S054,Family Emergency,attendance,2025-06-01
-RQ115,S056,Miscommunication or Delay in Assignment Communication,assignment,2025-04-28
-RQ116,S056,Family Emergency,attendance,2025-05-01
-RQ117,S058,Corporate Overwork / High Workload,meeting,2025-05-24
-RQ118,S059,Extension Approved by Academic Mentor,assignment,2025-04-15
-RQ119,S059,Corporate Overwork / High Workload,meeting,2025-06-06
-RQ120,S062,Medical Emergency,meeting,2025-04-18
-RQ121,S063,Extension Approved by Academic Mentor,assignment,2025-06-23
-RQ122,S063,Family Emergency,attendance,2025-04-13
-RQ123,S063,Family Emergency,meeting,2025-04-03
-RQ124,S064,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-05-10
-RQ125,S064,Corporate Overwork / High Workload,meeting,2025-04-12
-RQ126,S064,Extension Approved by Academic Mentor,assignment,2025-05-05
-RQ127,S066,Corporate Overwork / High Workload,meeting,2025-06-04
-RQ128,S067,Corporate Overwork / High Workload,attendance,2025-05-09
-RQ129,S067,Corporate Overwork / High Workload,assignment,2025-05-28
-RQ130,S068,Family Emergency,attendance,2025-06-21
-RQ131,S068,Mental Health Leave / Counselling,attendance,2025-04-25
-RQ132,S068,Corporate Overwork / High Workload,assignment,2025-04-28
-RQ133,S069,Corporate Overwork / High Workload,meeting,2025-04-04
-RQ134,S069,Miscommunication or Delay in Assignment Communication,assignment,2025-05-07
-RQ135,S069,Visa or Legal Paperwork Delays,attendance,2025-05-02
-RQ136,S069,Corporate Overwork / High Workload,assignment,2025-05-24
-RQ137,S070,Medical Emergency,assignment,2025-04-09
-RQ138,S070,Family Emergency,meeting,2025-06-10
-RQ139,S070,Corporate Overwork / High Workload,meeting,2025-06-20
-RQ140,S070,Medical Emergency,meeting,2025-05-22
-RQ141,S071,Family Emergency,attendance,2025-05-24
-RQ142,S072,Family Emergency,attendance,2025-06-16
-RQ143,S072,Family Emergency,attendance,2025-06-23
-RQ144,S073,Family Emergency,assignment,2025-05-08
-RQ145,S074,Medical Emergency,meeting,2025-06-18
-RQ146,S074,Corporate Overwork / High Workload,meeting,2025-04-13
-RQ147,S074,Medical Emergency,attendance,2025-05-30
-RQ148,S074,Medical Emergency,meeting,2025-04-22
-RQ149,S075,Extension Approved by Academic Mentor,assignment,2025-06-04
-RQ150,S075,Medical Emergency,assignment,2025-05-03
-RQ151,S075,Corporate Overwork / High Workload,meeting,2025-04-17
-RQ152,S075,Medical Emergency,assignment,2025-04-04
-RQ153,S076,Family Emergency,assignment,2025-04-08
-RQ154,S077,Mental Health Leave / Counselling,attendance,2025-05-03
-RQ155,S077,Family Emergency,meeting,2025-04-11
-RQ156,S077,Family Emergency,attendance,2025-04-13
-RQ157,S078,Extension Approved by Academic Mentor,assignment,2025-05-01
-RQ158,S079,Medical Emergency,meeting,2025-06-02
-RQ159,S080,Visa or Legal Paperwork Delays,attendance,2025-06-08
-RQ160,S080,Family Emergency,meeting,2025-06-08
-RQ161,S080,Family Emergency,meeting,2025-05-08
-RQ162,S080,Medical Emergency,assignment,2025-05-26
-RQ163,S083,Family Emergency,assignment,2025-04-27
-RQ164,S083,Mental Health Leave / Counselling,attendance,2025-05-13
-RQ165,S083,Extension Approved by Academic Mentor,assignment,2025-04-10
-RQ166,S083,Medical Emergency,assignment,2025-05-30
-RQ167,S084,Visa or Legal Paperwork Delays,attendance,2025-06-13
-RQ168,S085,Family Emergency,attendance,2025-06-15
-RQ169,S085,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-05-17
-RQ170,S086,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-04-07
-RQ171,S086,Medical Emergency,assignment,2025-04-13
-RQ172,S087,Medical Emergency,attendance,2025-05-12
-RQ173,S087,Family Emergency,meeting,2025-04-07
-RQ174,S087,Corporate Overwork / High Workload,meeting,2025-05-26
-RQ175,S088,Family Emergency,meeting,2025-04-27
-RQ176,S088,Medical Emergency,meeting,2025-05-12
-RQ177,S088,Visa or Legal Paperwork Delays,attendance,2025-04-14
-RQ178,S088,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-05-12
-RQ179,S089,Medical Emergency,attendance,2025-06-13
-RQ180,S091,Family Emergency,assignment,2025-04-27
-RQ181,S091,Extension Approved by Academic Mentor,assignment,2025-05-30
-RQ182,S093,Family Emergency,meeting,2025-05-11
-RQ183,S093,Corporate Overwork / High Workload,assignment,2025-06-05
-RQ184,S093,Extension Approved by Academic Mentor,assignment,2025-04-19
-RQ185,S095,Family Emergency,attendance,2025-04-09
-RQ186,S098,Family Emergency,meeting,2025-05-04
-RQ187,S098,Medical Emergency,assignment,2025-05-09
-RQ188,S098,Mental Health Leave / Counselling,attendance,2025-05-25
-RQ189,S099,Miscommunication or Delay in Assignment Communication,assignment,2025-04-16
-RQ190,S099,Medical Emergency,attendance,2025-05-28
-RQ191,S099,Mental Health Leave / Counselling,attendance,2025-05-31
-RQ192,S100,Family Emergency,meeting,2025-06-20
+RQ001,S001,Miscommunication or Delay in Assignment Communication,assignment,2025-05-08
+RQ002,S001,Corporate Overwork / High Workload,assignment,2025-06-01
+RQ003,S001,Miscommunication or Delay in Assignment Communication,assignment,2025-06-17
+RQ004,S004,Mental Health Leave / Counselling,attendance,2025-04-12
+RQ005,S004,Family Emergency,assignment,2025-05-28
+RQ006,S004,Medical Emergency,assignment,2025-06-13
+RQ007,S004,Miscommunication or Delay in Assignment Communication,assignment,2025-05-07
+RQ008,S005,Visa or Legal Paperwork Delays,attendance,2025-06-13
+RQ009,S005,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-06-01
+RQ010,S006,Corporate Overwork / High Workload,assignment,2025-06-21
+RQ011,S006,Family Emergency,attendance,2025-04-23
+RQ012,S008,Family Emergency,assignment,2025-06-12
+RQ013,S008,Medical Emergency,attendance,2025-06-05
+RQ014,S009,Family Emergency,assignment,2025-05-22
+RQ015,S009,Mental Health Leave / Counselling,attendance,2025-04-05
+RQ016,S009,Medical Emergency,assignment,2025-06-05
+RQ017,S010,Extension Approved by Academic Mentor,assignment,2025-04-24
+RQ018,S010,Family Emergency,meeting,2025-05-17
+RQ019,S010,Corporate Overwork / High Workload,attendance,2025-04-17
+RQ020,S010,Corporate Overwork / High Workload,attendance,2025-05-14
+RQ021,S011,Mental Health Leave / Counselling,attendance,2025-05-28
+RQ022,S011,Medical Emergency,attendance,2025-06-22
+RQ023,S013,Extension Approved by Academic Mentor,assignment,2025-04-20
+RQ024,S014,Mental Health Leave / Counselling,attendance,2025-05-17
+RQ025,S017,Family Emergency,attendance,2025-06-14
+RQ026,S017,Medical Emergency,attendance,2025-04-26
+RQ027,S017,Family Emergency,assignment,2025-05-31
+RQ028,S017,Mental Health Leave / Counselling,attendance,2025-06-01
+RQ029,S019,Corporate Overwork / High Workload,attendance,2025-05-29
+RQ030,S019,Medical Emergency,assignment,2025-05-26
+RQ031,S019,Corporate Overwork / High Workload,assignment,2025-04-04
+RQ032,S020,Miscommunication or Delay in Assignment Communication,assignment,2025-04-16
+RQ033,S020,Medical Emergency,meeting,2025-06-09
+RQ034,S020,Mental Health Leave / Counselling,attendance,2025-05-30
+RQ035,S020,Miscommunication or Delay in Assignment Communication,assignment,2025-04-13
+RQ036,S021,Family Emergency,assignment,2025-04-12
+RQ037,S021,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-06-17
+RQ038,S021,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-06-08
+RQ039,S021,Mental Health Leave / Counselling,attendance,2025-06-10
+RQ040,S022,Corporate Overwork / High Workload,meeting,2025-06-02
+RQ041,S022,Extension Approved by Academic Mentor,assignment,2025-04-23
+RQ042,S023,Visa or Legal Paperwork Delays,attendance,2025-04-20
+RQ043,S023,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-06-10
+RQ044,S023,Medical Emergency,assignment,2025-04-21
+RQ045,S024,Corporate Overwork / High Workload,assignment,2025-05-07
+RQ046,S025,Medical Emergency,attendance,2025-05-11
+RQ047,S025,Family Emergency,attendance,2025-06-07
+RQ048,S025,Medical Emergency,attendance,2025-04-06
+RQ049,S026,Corporate Overwork / High Workload,meeting,2025-06-04
+RQ050,S027,Family Emergency,assignment,2025-05-10
+RQ051,S027,Family Emergency,meeting,2025-04-14
+RQ052,S027,Family Emergency,meeting,2025-04-20
+RQ053,S028,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-04-22
+RQ054,S028,Miscommunication or Delay in Assignment Communication,assignment,2025-05-18
+RQ055,S029,Corporate Overwork / High Workload,meeting,2025-06-03
+RQ056,S029,Corporate Overwork / High Workload,assignment,2025-06-19
+RQ057,S030,Extension Approved by Academic Mentor,assignment,2025-04-09
+RQ058,S032,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-05-30
+RQ059,S032,Family Emergency,meeting,2025-06-01
+RQ060,S032,Extension Approved by Academic Mentor,assignment,2025-04-20
+RQ061,S033,Family Emergency,attendance,2025-04-08
+RQ062,S033,Medical Emergency,meeting,2025-04-26
+RQ063,S033,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-06-06
+RQ064,S034,Family Emergency,assignment,2025-05-15
+RQ065,S034,Corporate Overwork / High Workload,meeting,2025-06-12
+RQ066,S035,Medical Emergency,meeting,2025-06-01
+RQ067,S036,Family Emergency,attendance,2025-05-18
+RQ068,S037,Extension Approved by Academic Mentor,assignment,2025-04-17
+RQ069,S038,Corporate Overwork / High Workload,meeting,2025-06-22
+RQ070,S038,Corporate Overwork / High Workload,attendance,2025-04-25
+RQ071,S038,Mental Health Leave / Counselling,attendance,2025-06-09
+RQ072,S038,Miscommunication or Delay in Assignment Communication,assignment,2025-04-14
+RQ073,S040,Corporate Overwork / High Workload,meeting,2025-04-13
+RQ074,S040,Medical Emergency,meeting,2025-04-27
+RQ075,S040,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-04-28
+RQ076,S042,Family Emergency,meeting,2025-05-03
+RQ077,S042,Corporate Overwork / High Workload,assignment,2025-06-20
+RQ078,S042,Family Emergency,attendance,2025-06-09
+RQ079,S045,Corporate Overwork / High Workload,assignment,2025-05-17
+RQ080,S045,Medical Emergency,meeting,2025-04-17
+RQ081,S045,Corporate Overwork / High Workload,attendance,2025-04-20
+RQ082,S045,Corporate Overwork / High Workload,attendance,2025-05-03
+RQ083,S046,Family Emergency,meeting,2025-04-25
+RQ084,S047,Extension Approved by Academic Mentor,assignment,2025-05-27
+RQ085,S047,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-05-22
+RQ086,S047,Family Emergency,attendance,2025-05-07
+RQ087,S047,Corporate Overwork / High Workload,meeting,2025-04-27
+RQ088,S049,Medical Emergency,attendance,2025-05-01
+RQ089,S049,Corporate Overwork / High Workload,assignment,2025-04-12
+RQ090,S049,Corporate Overwork / High Workload,meeting,2025-04-30
+RQ091,S050,Visa or Legal Paperwork Delays,attendance,2025-04-07
+RQ092,S050,Medical Emergency,meeting,2025-04-07
+RQ093,S052,Extension Approved by Academic Mentor,assignment,2025-06-15
+RQ094,S052,Medical Emergency,assignment,2025-06-18
+RQ095,S052,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-05-16
+RQ096,S054,Medical Emergency,attendance,2025-04-07
+RQ097,S054,Family Emergency,assignment,2025-05-20
+RQ098,S057,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-06-03
+RQ099,S057,Miscommunication or Delay in Assignment Communication,assignment,2025-06-18
+RQ100,S057,Medical Emergency,meeting,2025-04-03
+RQ101,S058,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-05-09
+RQ102,S058,Corporate Overwork / High Workload,meeting,2025-06-18
+RQ103,S058,Corporate Overwork / High Workload,meeting,2025-06-13
+RQ104,S058,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-04-23
+RQ105,S059,Family Emergency,attendance,2025-05-14
+RQ106,S059,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-04-25
+RQ107,S059,Medical Emergency,attendance,2025-04-04
+RQ108,S059,Extension Approved by Academic Mentor,assignment,2025-06-09
+RQ109,S060,Corporate Overwork / High Workload,attendance,2025-04-08
+RQ110,S060,Corporate Overwork / High Workload,assignment,2025-05-14
+RQ111,S063,Extension Approved by Academic Mentor,assignment,2025-04-19
+RQ112,S063,Miscommunication or Delay in Assignment Communication,assignment,2025-04-01
+RQ113,S063,Mental Health Leave / Counselling,attendance,2025-06-17
+RQ114,S063,Corporate Overwork / High Workload,assignment,2025-04-25
+RQ115,S064,Miscommunication or Delay in Assignment Communication,assignment,2025-06-23
+RQ116,S064,Extension Approved by Academic Mentor,assignment,2025-06-13
+RQ117,S064,Corporate Overwork / High Workload,meeting,2025-05-21
+RQ118,S064,Corporate Overwork / High Workload,attendance,2025-04-12
+RQ119,S065,Corporate Overwork / High Workload,attendance,2025-04-05
+RQ120,S065,Visa or Legal Paperwork Delays,attendance,2025-04-26
+RQ121,S065,Corporate Overwork / High Workload,attendance,2025-05-22
+RQ122,S066,Family Emergency,assignment,2025-06-03
+RQ123,S068,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-06-16
+RQ124,S068,Corporate Overwork / High Workload,meeting,2025-04-06
+RQ125,S068,Visa or Legal Paperwork Delays,attendance,2025-06-05
+RQ126,S068,Visa or Legal Paperwork Delays,attendance,2025-05-15
+RQ127,S070,Corporate Overwork / High Workload,attendance,2025-05-30
+RQ128,S070,Mental Health Leave / Counselling,attendance,2025-05-21
+RQ129,S070,Corporate Overwork / High Workload,attendance,2025-05-08
+RQ130,S071,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-05-04
+RQ131,S072,Family Emergency,assignment,2025-04-21
+RQ132,S072,Medical Emergency,assignment,2025-06-20
+RQ133,S072,Visa or Legal Paperwork Delays,attendance,2025-06-08
+RQ134,S073,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-04-05
+RQ135,S074,Medical Emergency,attendance,2025-06-09
+RQ136,S074,Medical Emergency,attendance,2025-06-08
+RQ137,S074,Corporate Overwork / High Workload,meeting,2025-04-05
+RQ138,S075,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-05-18
+RQ139,S076,Medical Emergency,assignment,2025-06-11
+RQ140,S076,Family Emergency,meeting,2025-05-26
+RQ141,S076,Miscommunication or Delay in Assignment Communication,assignment,2025-06-20
+RQ142,S077,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-04-30
+RQ143,S077,Medical Emergency,assignment,2025-05-20
+RQ144,S077,Medical Emergency,assignment,2025-04-29
+RQ145,S077,Medical Emergency,attendance,2025-05-12
+RQ146,S078,Corporate Overwork / High Workload,meeting,2025-06-14
+RQ147,S079,Medical Emergency,assignment,2025-05-10
+RQ148,S079,Miscommunication or Delay in Assignment Communication,assignment,2025-06-23
+RQ149,S079,Corporate Overwork / High Workload,attendance,2025-05-20
+RQ150,S080,Visa or Legal Paperwork Delays,attendance,2025-06-01
+RQ151,S082,"Approved Leave (Vacation, Wedding, etc.)",attendance,2025-06-06
+RQ152,S082,Medical Emergency,attendance,2025-04-30
+RQ153,S083,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-06-03
+RQ154,S083,Extension Approved by Academic Mentor,assignment,2025-04-23
+RQ155,S083,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-06-15
+RQ156,S083,Family Emergency,meeting,2025-06-18
+RQ157,S084,Visa or Legal Paperwork Delays,attendance,2025-05-22
+RQ158,S085,Medical Emergency,assignment,2025-06-16
+RQ159,S085,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-06-04
+RQ160,S085,Corporate Overwork / High Workload,assignment,2025-06-12
+RQ161,S085,Corporate Overwork / High Workload,assignment,2025-05-03
+RQ162,S086,Family Emergency,assignment,2025-05-07
+RQ163,S087,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-05-31
+RQ164,S087,Extension Approved by Academic Mentor,assignment,2025-05-28
+RQ165,S087,Medical Emergency,assignment,2025-06-13
+RQ166,S087,Corporate Overwork / High Workload,meeting,2025-05-15
+RQ167,S088,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-05-18
+RQ168,S088,Miscommunication or Delay in Assignment Communication,assignment,2025-04-28
+RQ169,S089,Family Emergency,meeting,2025-04-28
+RQ170,S089,Extension Approved by Academic Mentor,assignment,2025-06-15
+RQ171,S089,Corporate Overwork / High Workload,meeting,2025-04-29
+RQ172,S090,Corporate Overwork / High Workload,attendance,2025-06-22
+RQ173,S090,Miscommunication or Delay in Assignment Communication,assignment,2025-05-03
+RQ174,S091,Visa or Legal Paperwork Delays,attendance,2025-04-24
+RQ175,S091,Family Emergency,assignment,2025-06-22
+RQ176,S091,Family Emergency,meeting,2025-06-10
+RQ177,S091,Corporate Overwork / High Workload,meeting,2025-06-13
+RQ178,S092,Family Emergency,meeting,2025-05-19
+RQ179,S092,Miscommunication or Delay in Assignment Communication,assignment,2025-04-30
+RQ180,S092,Mental Health Leave / Counselling,attendance,2025-04-28
+RQ181,S092,Medical Emergency,meeting,2025-06-23
+RQ182,S093,Medical Emergency,meeting,2025-04-25
+RQ183,S094,Mental Health Leave / Counselling,attendance,2025-05-30
+RQ184,S094,Mentor Unavailability / Meeting Canceled by Mentor,meeting,2025-04-02
+RQ185,S094,Extension Approved by Academic Mentor,assignment,2025-06-09
+RQ186,S095,Corporate Overwork / High Workload,meeting,2025-05-13
+RQ187,S095,Corporate Overwork / High Workload,assignment,2025-05-19
+RQ188,S095,Family Emergency,attendance,2025-05-03
+RQ189,S096,Extension Approved by Academic Mentor,assignment,2025-05-19
+RQ190,S096,Medical Emergency,assignment,2025-05-05
+RQ191,S096,Extension Approved by Academic Mentor,assignment,2025-05-08
+RQ192,S097,Medical Emergency,assignment,2025-05-01
+RQ193,S100,Mental Health Leave / Counselling,attendance,2025-05-09
+RQ194,S100,Extension Approved by Academic Mentor,assignment,2025-05-04
