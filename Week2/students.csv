@@ -1,101 +1,101 @@
 student_id,name,email,course,current_year,academic_mentor_id,industry_mentor_id,term_start_date,term_end_date
-S001,Robert Kennedy,robert.kennedy@gmail.com,Human-Centred Computing,3,AM015,IM014,2025-04-01,2025-06-24
-S002,Melissa Holden,melissa.holden@gmail.com,Applied Data Science,4,AM019,IM005,2025-04-01,2025-06-24
-S003,Brenda Jacobs,brenda.jacobs@gmail.com,Computational Modelling and Programming,3,AM019,IM013,2025-04-01,2025-06-24
-S004,Daniel Olson,daniel.olson@gmail.com,Software Engineering Principles,1,AM001,IM020,2025-04-01,2025-06-24
-S005,Crystal Arias,crystal.arias@gmail.com,Cybersecurity and Ethical Hacking,3,AM014,IM002,2025-04-01,2025-06-24
-S006,Jose Bailey,jose.bailey@gmail.com,Software Engineering Principles,1,AM008,IM010,2025-04-01,2025-06-24
-S007,Christopher Simon,christopher.simon@gmail.com,Business Intelligence and Strategy,1,AM001,IM006,2025-04-01,2025-06-24
-S008,Amy Holder,amy.holder@gmail.com,Information Systems Management,2,AM017,IM011,2025-04-01,2025-06-24
-S009,Angela Stewart,angela.stewart@gmail.com,Software Engineering Principles,3,AM018,IM016,2025-04-01,2025-06-24
-S010,Daniel Johnson,daniel.johnson@gmail.com,Interactive Media Design,2,AM013,IM010,2025-04-01,2025-06-24
-S011,Melissa Willis,melissa.willis@gmail.com,Software Engineering Principles,4,AM013,IM003,2025-04-01,2025-06-24
-S012,Tina Mitchell,tina.mitchell@gmail.com,Applied Data Science,4,AM015,IM001,2025-04-01,2025-06-24
-S013,David Allen,david.allen@gmail.com,Big Data Analysis and Visualisation,1,AM004,IM012,2025-04-01,2025-06-24
-S014,Nicholas Haynes,nicholas.haynes@gmail.com,Big Data Analysis and Visualisation,1,AM019,IM009,2025-04-01,2025-06-24
-S015,Anthony Kelly,anthony.kelly@gmail.com,Computational Modelling and Programming,1,AM002,IM011,2025-04-01,2025-06-24
-S016,Daniel Webb,daniel.webb@gmail.com,Artificial Intelligence and Machine Learning,2,AM001,IM011,2025-04-01,2025-06-24
-S017,Barbara Ramirez,barbara.ramirez@gmail.com,Artificial Intelligence and Machine Learning,4,AM017,IM017,2025-04-01,2025-06-24
-S018,Dawn Williams,dawn.williams@gmail.com,Professional Project Management,1,AM015,IM015,2025-04-01,2025-06-24
-S019,Lori Ford,lori.ford@gmail.com,Interactive Media Design,4,AM006,IM007,2025-04-01,2025-06-24
-S020,Brenda Rush,brenda.rush@gmail.com,Applied Data Science,2,AM004,IM014,2025-04-01,2025-06-24
-S021,Wanda Evans,wanda.evans@gmail.com,Human-Centred Computing,3,AM015,IM020,2025-04-01,2025-06-24
-S022,Margaret Rose,margaret.rose@gmail.com,Artificial Intelligence and Machine Learning,1,AM016,IM003,2025-04-01,2025-06-24
-S023,Rebecca Chen,rebecca.chen@gmail.com,Computational Modelling and Programming,4,AM015,IM008,2025-04-01,2025-06-24
-S024,David Sanchez DDS,david.sanchez.dds@gmail.com,Software Engineering Principles,2,AM014,IM018,2025-04-01,2025-06-24
-S025,Linda Craig,linda.craig@gmail.com,Business Intelligence and Strategy,1,AM020,IM014,2025-04-01,2025-06-24
-S026,Ryan Taylor,ryan.taylor@gmail.com,Interactive Media Design,2,AM002,IM010,2025-04-01,2025-06-24
-S027,Leslie Burnett MD,leslie.burnett.md@gmail.com,Computational Modelling and Programming,2,AM014,IM005,2025-04-01,2025-06-24
-S028,Brady Vance,brady.vance@gmail.com,Cybersecurity and Ethical Hacking,4,AM009,IM010,2025-04-01,2025-06-24
-S029,Michael Henderson,michael.henderson@gmail.com,Software Engineering Principles,2,AM017,IM020,2025-04-01,2025-06-24
-S030,William Smith,william.smith@gmail.com,Professional Project Management,1,AM009,IM019,2025-04-01,2025-06-24
-S031,Jesse Martin,jesse.martin@gmail.com,Applied Data Science,2,AM005,IM018,2025-04-01,2025-06-24
-S032,James Burton,james.burton@gmail.com,Information Systems Management,4,AM004,IM019,2025-04-01,2025-06-24
-S033,Kelly Gould,kelly.gould@gmail.com,Professional Project Management,4,AM001,IM005,2025-04-01,2025-06-24
-S034,Richard Weaver,richard.weaver@gmail.com,Cybersecurity and Ethical Hacking,3,AM012,IM016,2025-04-01,2025-06-24
-S035,Brittany Saunders,brittany.saunders@gmail.com,Information Systems Management,2,AM014,IM020,2025-04-01,2025-06-24
-S036,Steven Santiago Jr.,steven.santiago.jr.@gmail.com,Cybersecurity and Ethical Hacking,2,AM019,IM020,2025-04-01,2025-06-24
-S037,Sarah Jones,sarah.jones@gmail.com,Cybersecurity and Ethical Hacking,4,AM015,IM013,2025-04-01,2025-06-24
-S038,Donald Wong,donald.wong@gmail.com,Business Intelligence and Strategy,1,AM020,IM003,2025-04-01,2025-06-24
-S039,Melinda Oconnor,melinda.oconnor@gmail.com,Human-Centred Computing,4,AM005,IM014,2025-04-01,2025-06-24
-S040,Jasmine Hansen,jasmine.hansen@gmail.com,Computational Modelling and Programming,2,AM016,IM020,2025-04-01,2025-06-24
-S041,Angelica Johnson,angelica.johnson@gmail.com,Professional Project Management,1,AM006,IM002,2025-04-01,2025-06-24
-S042,Paul Richards,paul.richards@gmail.com,Professional Project Management,2,AM005,IM007,2025-04-01,2025-06-24
-S043,Jeffrey Bender,jeffrey.bender@gmail.com,Research Methods in Computing,1,AM013,IM012,2025-04-01,2025-06-24
-S044,Bruce Mendez,bruce.mendez@gmail.com,Business Intelligence and Strategy,1,AM005,IM008,2025-04-01,2025-06-24
-S045,David Floyd,david.floyd@gmail.com,Software Engineering Principles,4,AM015,IM016,2025-04-01,2025-06-24
-S046,Kenneth Lara,kenneth.lara@gmail.com,Interactive Media Design,1,AM008,IM019,2025-04-01,2025-06-24
-S047,Regina Allen,regina.allen@gmail.com,Professional Project Management,1,AM018,IM005,2025-04-01,2025-06-24
-S048,Jenny Ferguson,jenny.ferguson@gmail.com,Research Methods in Computing,3,AM007,IM006,2025-04-01,2025-06-24
-S049,Patrick Barnes,patrick.barnes@gmail.com,Artificial Intelligence and Machine Learning,4,AM010,IM001,2025-04-01,2025-06-24
-S050,William Davidson,william.davidson@gmail.com,Business Intelligence and Strategy,4,AM017,IM010,2025-04-01,2025-06-24
-S051,Tony Davis,tony.davis@gmail.com,Business Intelligence and Strategy,4,AM017,IM011,2025-04-01,2025-06-24
-S052,Lisa Malone,lisa.malone@gmail.com,Information Systems Management,3,AM008,IM003,2025-04-01,2025-06-24
-S053,Willie Clayton,willie.clayton@gmail.com,Research Methods in Computing,2,AM003,IM006,2025-04-01,2025-06-24
-S054,Amy Gay,amy.gay@gmail.com,Computational Modelling and Programming,4,AM016,IM011,2025-04-01,2025-06-24
-S055,William Jimenez,william.jimenez@gmail.com,Human-Centred Computing,1,AM009,IM018,2025-04-01,2025-06-24
-S056,Lisa Taylor,lisa.taylor@gmail.com,Software Engineering Principles,4,AM013,IM014,2025-04-01,2025-06-24
-S057,Sydney Cohen,sydney.cohen@gmail.com,Research Methods in Computing,4,AM014,IM004,2025-04-01,2025-06-24
-S058,Shawn Grant,shawn.grant@gmail.com,Software Engineering Principles,1,AM016,IM011,2025-04-01,2025-06-24
-S059,Alison Harris,alison.harris@gmail.com,Research Methods in Computing,2,AM005,IM010,2025-04-01,2025-06-24
-S060,Valerie Ashley,valerie.ashley@gmail.com,Professional Project Management,1,AM015,IM004,2025-04-01,2025-06-24
-S061,Kim Brewer,kim.brewer@gmail.com,Research Methods in Computing,4,AM015,IM012,2025-04-01,2025-06-24
-S062,Joshua Erickson,joshua.erickson@gmail.com,Research Methods in Computing,3,AM007,IM001,2025-04-01,2025-06-24
-S063,Michael Hahn,michael.hahn@gmail.com,Information Systems Management,3,AM004,IM004,2025-04-01,2025-06-24
-S064,Matthew Contreras,matthew.contreras@gmail.com,Interactive Media Design,2,AM009,IM011,2025-04-01,2025-06-24
-S065,Jocelyn Schaefer,jocelyn.schaefer@gmail.com,Human-Centred Computing,4,AM010,IM005,2025-04-01,2025-06-24
-S066,Kari Mcclure,kari.mcclure@gmail.com,Professional Project Management,1,AM017,IM012,2025-04-01,2025-06-24
-S067,Denise Williams,denise.williams@gmail.com,Computational Modelling and Programming,1,AM017,IM005,2025-04-01,2025-06-24
-S068,Adrienne Mccormick,adrienne.mccormick@gmail.com,Business Intelligence and Strategy,3,AM018,IM003,2025-04-01,2025-06-24
-S069,Jennifer Hill,jennifer.hill@gmail.com,Business Intelligence and Strategy,1,AM009,IM008,2025-04-01,2025-06-24
-S070,Tiffany Kemp,tiffany.kemp@gmail.com,Cybersecurity and Ethical Hacking,1,AM018,IM019,2025-04-01,2025-06-24
-S071,Mary Smith DVM,mary.smith.dvm@gmail.com,Interactive Media Design,4,AM007,IM008,2025-04-01,2025-06-24
-S072,Kaitlin Santos,kaitlin.santos@gmail.com,Information Systems Management,2,AM013,IM012,2025-04-01,2025-06-24
-S073,Kevin Hall,kevin.hall@gmail.com,Applied Data Science,1,AM011,IM018,2025-04-01,2025-06-24
-S074,Carlos Perez,carlos.perez@gmail.com,Professional Project Management,1,AM012,IM003,2025-04-01,2025-06-24
-S075,Hannah French,hannah.french@gmail.com,Research Methods in Computing,4,AM020,IM012,2025-04-01,2025-06-24
-S076,Abigail Burton,abigail.burton@gmail.com,Interactive Media Design,3,AM002,IM012,2025-04-01,2025-06-24
-S077,Lynn Lewis,lynn.lewis@gmail.com,Information Systems Management,1,AM009,IM018,2025-04-01,2025-06-24
-S078,Nicole Crawford,nicole.crawford@gmail.com,Information Systems Management,2,AM001,IM004,2025-04-01,2025-06-24
-S079,Amanda Santana,amanda.santana@gmail.com,Big Data Analysis and Visualisation,1,AM009,IM012,2025-04-01,2025-06-24
-S080,Mary Lewis,mary.lewis@gmail.com,Applied Data Science,1,AM001,IM014,2025-04-01,2025-06-24
-S081,Lisa Hunt,lisa.hunt@gmail.com,Professional Project Management,3,AM020,IM014,2025-04-01,2025-06-24
-S082,Michelle Landry,michelle.landry@gmail.com,Research Methods in Computing,3,AM004,IM011,2025-04-01,2025-06-24
-S083,Lauren Collins,lauren.collins@gmail.com,Professional Project Management,1,AM017,IM002,2025-04-01,2025-06-24
-S084,Alan Rogers,alan.rogers@gmail.com,Professional Project Management,4,AM016,IM004,2025-04-01,2025-06-24
-S085,Victoria Young,victoria.young@gmail.com,Artificial Intelligence and Machine Learning,3,AM003,IM019,2025-04-01,2025-06-24
-S086,Sarah Sanchez,sarah.sanchez@gmail.com,Cybersecurity and Ethical Hacking,1,AM013,IM018,2025-04-01,2025-06-24
-S087,Martha Horton DDS,martha.horton.dds@gmail.com,Business Intelligence and Strategy,3,AM019,IM008,2025-04-01,2025-06-24
-S088,Kimberly Fields,kimberly.fields@gmail.com,Big Data Analysis and Visualisation,4,AM017,IM019,2025-04-01,2025-06-24
-S089,Donald Petty,donald.petty@gmail.com,Information Systems Management,4,AM017,IM001,2025-04-01,2025-06-24
-S090,Deanna Hopkins,deanna.hopkins@gmail.com,Cybersecurity and Ethical Hacking,4,AM003,IM006,2025-04-01,2025-06-24
-S091,Christina Gonzalez DVM,christina.gonzalez.dvm@gmail.com,Applied Data Science,2,AM001,IM001,2025-04-01,2025-06-24
-S092,Randall Thomas,randall.thomas@gmail.com,Information Systems Management,4,AM018,IM018,2025-04-01,2025-06-24
-S093,Christopher Shields,christopher.shields@gmail.com,Big Data Analysis and Visualisation,3,AM018,IM017,2025-04-01,2025-06-24
-S094,Shawn Mccann,shawn.mccann@gmail.com,Big Data Analysis and Visualisation,1,AM005,IM016,2025-04-01,2025-06-24
-S095,Sarah Cooke,sarah.cooke@gmail.com,Software Engineering Principles,3,AM004,IM008,2025-04-01,2025-06-24
-S096,Erin Church,erin.church@gmail.com,Human-Centred Computing,3,AM001,IM001,2025-04-01,2025-06-24
-S097,Jason Martin,jason.martin@gmail.com,Software Engineering Principles,3,AM001,IM004,2025-04-01,2025-06-24
-S098,Kayla Buchanan,kayla.buchanan@gmail.com,Artificial Intelligence and Machine Learning,3,AM015,IM015,2025-04-01,2025-06-24
-S099,Michelle Patel,michelle.patel@gmail.com,Computational Modelling and Programming,4,AM016,IM010,2025-04-01,2025-06-24
-S100,Linda Edwards,linda.edwards@gmail.com,Professional Project Management,2,AM016,IM011,2025-04-01,2025-06-24
+S001,Randy Rice,randy.rice@gmail.com,Software Engineering Principles,4,AM011,IM003,2025-04-01,2025-06-24
+S002,Deborah Davis,deborah.davis@gmail.com,Professional Project Management,2,AM001,IM002,2025-04-01,2025-06-24
+S003,Jeremiah Hester,jeremiah.hester@gmail.com,Business Intelligence and Strategy,4,AM003,IM007,2025-04-01,2025-06-24
+S004,Christina Sanchez,christina.sanchez@gmail.com,Business Intelligence and Strategy,2,AM019,IM014,2025-04-01,2025-06-24
+S005,Frank Ellis,frank.ellis@gmail.com,Artificial Intelligence and Machine Learning,4,AM013,IM014,2025-04-01,2025-06-24
+S006,Kimberly Tucker,kimberly.tucker@gmail.com,Applied Data Science,3,AM006,IM014,2025-04-01,2025-06-24
+S007,Stephen West,stephen.west@gmail.com,Computational Modelling and Programming,3,AM014,IM004,2025-04-01,2025-06-24
+S008,Melissa Davis,melissa.davis@gmail.com,Big Data Analysis and Visualisation,3,AM015,IM013,2025-04-01,2025-06-24
+S009,Luke Hayes,luke.hayes@gmail.com,Interactive Media Design,2,AM016,IM017,2025-04-01,2025-06-24
+S010,Cathy Jones,cathy.jones@gmail.com,Software Engineering Principles,4,AM017,IM005,2025-04-01,2025-06-24
+S011,Holly Walsh,holly.walsh@gmail.com,Human-Centred Computing,3,AM011,IM006,2025-04-01,2025-06-24
+S012,Mary Kim,mary.kim@gmail.com,Big Data Analysis and Visualisation,3,AM006,IM019,2025-04-01,2025-06-24
+S013,Frank Becker,frank.becker@gmail.com,Information Systems Management,3,AM020,IM016,2025-04-01,2025-06-24
+S014,Julia Jones,julia.jones@gmail.com,Human-Centred Computing,1,AM010,IM018,2025-04-01,2025-06-24
+S015,Tracy Hughes,tracy.hughes@gmail.com,Computational Modelling and Programming,4,AM016,IM007,2025-04-01,2025-06-24
+S016,Jason Vazquez,jason.vazquez@gmail.com,Software Engineering Principles,4,AM009,IM018,2025-04-01,2025-06-24
+S017,Nicole Munoz,nicole.munoz@gmail.com,Artificial Intelligence and Machine Learning,2,AM018,IM020,2025-04-01,2025-06-24
+S018,Shawn Gutierrez,shawn.gutierrez@gmail.com,Human-Centred Computing,3,AM008,IM009,2025-04-01,2025-06-24
+S019,Melissa Nash,melissa.nash@gmail.com,Applied Data Science,4,AM001,IM005,2025-04-01,2025-06-24
+S020,Brian Jacobs,brian.jacobs@gmail.com,Applied Data Science,4,AM020,IM005,2025-04-01,2025-06-24
+S021,Matthew Mack,matthew.mack@gmail.com,Applied Data Science,4,AM018,IM003,2025-04-01,2025-06-24
+S022,Mary Houston,mary.houston@gmail.com,Applied Data Science,4,AM018,IM018,2025-04-01,2025-06-24
+S023,Christopher Nelson,christopher.nelson@gmail.com,Human-Centred Computing,1,AM003,IM009,2025-04-01,2025-06-24
+S024,Jill Sherman,jill.sherman@gmail.com,Cybersecurity and Ethical Hacking,3,AM003,IM016,2025-04-01,2025-06-24
+S025,Jacqueline Anderson,jacqueline.anderson@gmail.com,Human-Centred Computing,1,AM003,IM016,2025-04-01,2025-06-24
+S026,Morgan Fuller,morgan.fuller@gmail.com,Computational Modelling and Programming,4,AM018,IM013,2025-04-01,2025-06-24
+S027,Lisa Carey,lisa.carey@gmail.com,Cybersecurity and Ethical Hacking,4,AM002,IM015,2025-04-01,2025-06-24
+S028,Lindsey Young,lindsey.young@gmail.com,Applied Data Science,1,AM020,IM011,2025-04-01,2025-06-24
+S029,Timothy Perez,timothy.perez@gmail.com,Big Data Analysis and Visualisation,4,AM017,IM017,2025-04-01,2025-06-24
+S030,Terry Williams,terry.williams@gmail.com,Software Engineering Principles,2,AM004,IM008,2025-04-01,2025-06-24
+S031,George Guzman,george.guzman@gmail.com,Interactive Media Design,4,AM018,IM014,2025-04-01,2025-06-24
+S032,Bradley West MD,bradley.west.md@gmail.com,Artificial Intelligence and Machine Learning,3,AM015,IM004,2025-04-01,2025-06-24
+S033,Deborah Campbell,deborah.campbell@gmail.com,Cybersecurity and Ethical Hacking,4,AM016,IM019,2025-04-01,2025-06-24
+S034,Joshua Jones,joshua.jones@gmail.com,Information Systems Management,1,AM004,IM017,2025-04-01,2025-06-24
+S035,Thomas Phillips,thomas.phillips@gmail.com,Cybersecurity and Ethical Hacking,4,AM012,IM012,2025-04-01,2025-06-24
+S036,Nicole Jones,nicole.jones@gmail.com,Cybersecurity and Ethical Hacking,1,AM012,IM009,2025-04-01,2025-06-24
+S037,Andrew Kane,andrew.kane@gmail.com,Research Methods in Computing,3,AM008,IM013,2025-04-01,2025-06-24
+S038,Patrick Robertson,patrick.robertson@gmail.com,Applied Data Science,4,AM018,IM012,2025-04-01,2025-06-24
+S039,Charles Kaufman,charles.kaufman@gmail.com,Big Data Analysis and Visualisation,1,AM004,IM010,2025-04-01,2025-06-24
+S040,Hannah Dominguez,hannah.dominguez@gmail.com,Information Systems Management,4,AM008,IM019,2025-04-01,2025-06-24
+S041,James Hill,james.hill@gmail.com,Software Engineering Principles,3,AM017,IM002,2025-04-01,2025-06-24
+S042,Ashley Miller,ashley.miller@gmail.com,Big Data Analysis and Visualisation,4,AM007,IM003,2025-04-01,2025-06-24
+S043,Jamie Cobb,jamie.cobb@gmail.com,Software Engineering Principles,2,AM018,IM011,2025-04-01,2025-06-24
+S044,Aaron Bell,aaron.bell@gmail.com,Big Data Analysis and Visualisation,3,AM010,IM011,2025-04-01,2025-06-24
+S045,Annette Dunlap,annette.dunlap@gmail.com,Information Systems Management,1,AM003,IM004,2025-04-01,2025-06-24
+S046,Brian Clark,brian.clark@gmail.com,Research Methods in Computing,4,AM004,IM015,2025-04-01,2025-06-24
+S047,Craig Johnson,craig.johnson@gmail.com,Human-Centred Computing,1,AM017,IM015,2025-04-01,2025-06-24
+S048,Mary Mccann,mary.mccann@gmail.com,Software Engineering Principles,1,AM018,IM012,2025-04-01,2025-06-24
+S049,Madison Huang,madison.huang@gmail.com,Artificial Intelligence and Machine Learning,2,AM018,IM001,2025-04-01,2025-06-24
+S050,James House,james.house@gmail.com,Artificial Intelligence and Machine Learning,2,AM014,IM008,2025-04-01,2025-06-24
+S051,Gabrielle Howard,gabrielle.howard@gmail.com,Interactive Media Design,3,AM018,IM020,2025-04-01,2025-06-24
+S052,Paula Davis,paula.davis@gmail.com,Cybersecurity and Ethical Hacking,1,AM018,IM004,2025-04-01,2025-06-24
+S053,Douglas Henson,douglas.henson@gmail.com,Professional Project Management,4,AM006,IM011,2025-04-01,2025-06-24
+S054,Jennifer Kemp,jennifer.kemp@gmail.com,Cybersecurity and Ethical Hacking,3,AM013,IM005,2025-04-01,2025-06-24
+S055,Justin Moreno,justin.moreno@gmail.com,Applied Data Science,1,AM011,IM011,2025-04-01,2025-06-24
+S056,Nichole Hart,nichole.hart@gmail.com,Interactive Media Design,4,AM009,IM013,2025-04-01,2025-06-24
+S057,Frank Lane,frank.lane@gmail.com,Applied Data Science,1,AM013,IM020,2025-04-01,2025-06-24
+S058,Diana Houston,diana.houston@gmail.com,Cybersecurity and Ethical Hacking,4,AM012,IM010,2025-04-01,2025-06-24
+S059,Darrell Barrett,darrell.barrett@gmail.com,Information Systems Management,2,AM008,IM006,2025-04-01,2025-06-24
+S060,Jane Martinez,jane.martinez@gmail.com,Big Data Analysis and Visualisation,1,AM015,IM009,2025-04-01,2025-06-24
+S061,Kevin Garcia,kevin.garcia@gmail.com,Research Methods in Computing,1,AM016,IM017,2025-04-01,2025-06-24
+S062,Kathleen Mullen,kathleen.mullen@gmail.com,Computational Modelling and Programming,4,AM019,IM012,2025-04-01,2025-06-24
+S063,Mary Graves,mary.graves@gmail.com,Software Engineering Principles,2,AM018,IM006,2025-04-01,2025-06-24
+S064,Paula Banks,paula.banks@gmail.com,Business Intelligence and Strategy,4,AM020,IM001,2025-04-01,2025-06-24
+S065,Jonathan Hart,jonathan.hart@gmail.com,Software Engineering Principles,2,AM014,IM018,2025-04-01,2025-06-24
+S066,Randy Jones,randy.jones@gmail.com,Human-Centred Computing,2,AM013,IM006,2025-04-01,2025-06-24
+S067,Sara Beck,sara.beck@gmail.com,Business Intelligence and Strategy,1,AM003,IM009,2025-04-01,2025-06-24
+S068,Donna Pacheco,donna.pacheco@gmail.com,Big Data Analysis and Visualisation,2,AM005,IM012,2025-04-01,2025-06-24
+S069,Dennis Swanson,dennis.swanson@gmail.com,Artificial Intelligence and Machine Learning,1,AM006,IM006,2025-04-01,2025-06-24
+S070,Deanna Green,deanna.green@gmail.com,Applied Data Science,4,AM011,IM012,2025-04-01,2025-06-24
+S071,Anthony Daugherty,anthony.daugherty@gmail.com,Artificial Intelligence and Machine Learning,1,AM014,IM011,2025-04-01,2025-06-24
+S072,Emily Fisher,emily.fisher@gmail.com,Information Systems Management,2,AM002,IM015,2025-04-01,2025-06-24
+S073,Joseph Mooney,joseph.mooney@gmail.com,Human-Centred Computing,1,AM020,IM016,2025-04-01,2025-06-24
+S074,Danielle Fox,danielle.fox@gmail.com,Information Systems Management,3,AM016,IM006,2025-04-01,2025-06-24
+S075,Edwin Alexander,edwin.alexander@gmail.com,Human-Centred Computing,4,AM006,IM013,2025-04-01,2025-06-24
+S076,Alan Ortiz,alan.ortiz@gmail.com,Business Intelligence and Strategy,1,AM002,IM007,2025-04-01,2025-06-24
+S077,David Zimmerman,david.zimmerman@gmail.com,Human-Centred Computing,3,AM001,IM008,2025-04-01,2025-06-24
+S078,Michael Crosby,michael.crosby@gmail.com,Artificial Intelligence and Machine Learning,4,AM011,IM019,2025-04-01,2025-06-24
+S079,Helen Lopez,helen.lopez@gmail.com,Cybersecurity and Ethical Hacking,1,AM009,IM019,2025-04-01,2025-06-24
+S080,Jon Baker,jon.baker@gmail.com,Computational Modelling and Programming,3,AM003,IM016,2025-04-01,2025-06-24
+S081,Brian Cochran,brian.cochran@gmail.com,Information Systems Management,4,AM001,IM015,2025-04-01,2025-06-24
+S082,Stephen Lawrence,stephen.lawrence@gmail.com,Cybersecurity and Ethical Hacking,2,AM006,IM001,2025-04-01,2025-06-24
+S083,Maria Mendoza,maria.mendoza@gmail.com,Applied Data Science,4,AM003,IM010,2025-04-01,2025-06-24
+S084,Nina Greene,nina.greene@gmail.com,Software Engineering Principles,2,AM005,IM019,2025-04-01,2025-06-24
+S085,Andrea Randolph,andrea.randolph@gmail.com,Business Intelligence and Strategy,1,AM008,IM010,2025-04-01,2025-06-24
+S086,Emily Harrington,emily.harrington@gmail.com,Interactive Media Design,4,AM007,IM012,2025-04-01,2025-06-24
+S087,Samantha Davenport,samantha.davenport@gmail.com,Human-Centred Computing,4,AM001,IM006,2025-04-01,2025-06-24
+S088,Willie Faulkner,willie.faulkner@gmail.com,Interactive Media Design,2,AM011,IM012,2025-04-01,2025-06-24
+S089,Darrell Torres,darrell.torres@gmail.com,Applied Data Science,1,AM003,IM006,2025-04-01,2025-06-24
+S090,Dana Parker,dana.parker@gmail.com,Cybersecurity and Ethical Hacking,2,AM018,IM013,2025-04-01,2025-06-24
+S091,Julia Henderson,julia.henderson@gmail.com,Cybersecurity and Ethical Hacking,2,AM013,IM016,2025-04-01,2025-06-24
+S092,Megan Burke,megan.burke@gmail.com,Human-Centred Computing,4,AM015,IM020,2025-04-01,2025-06-24
+S093,Leon Peters,leon.peters@gmail.com,Applied Data Science,2,AM003,IM009,2025-04-01,2025-06-24
+S094,Krista Moore,krista.moore@gmail.com,Interactive Media Design,4,AM008,IM018,2025-04-01,2025-06-24
+S095,Steven Fletcher,steven.fletcher@gmail.com,Information Systems Management,3,AM003,IM006,2025-04-01,2025-06-24
+S096,Troy Hayes,troy.hayes@gmail.com,Artificial Intelligence and Machine Learning,1,AM005,IM002,2025-04-01,2025-06-24
+S097,Cameron Fuller,cameron.fuller@gmail.com,Human-Centred Computing,2,AM013,IM018,2025-04-01,2025-06-24
+S098,Joseph Kent,joseph.kent@gmail.com,Information Systems Management,2,AM004,IM008,2025-04-01,2025-06-24
+S099,Brittany Garrison,brittany.garrison@gmail.com,Artificial Intelligence and Machine Learning,1,AM006,IM001,2025-04-01,2025-06-24
+S100,Corey Tanner,corey.tanner@gmail.com,Professional Project Management,2,AM017,IM014,2025-04-01,2025-06-24
